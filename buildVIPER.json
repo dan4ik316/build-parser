@@ -1,0 +1,2167 @@
+{
+  "parentIdentifier" : "",
+  "fetchedFromCache" : false,
+  "title" : "Build TodoListViper",
+  "warningCount" : 0,
+  "duration" : 0.19365096092224121,
+  "startTimestamp" : 1650457884.290055,
+  "signature" : "Build TodoListViper",
+  "errors" : [
+
+  ],
+  "compilationEndTimestamp" : 1650457884.290055,
+  "compilationDuration" : 0,
+  "endDate" : "2022-04-20T12:31:24.484000Z",
+  "errorCount" : 0,
+  "domain" : "Xcode.IDEActivityLogDomainType.BuildLog",
+  "type" : "main",
+  "identifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_1",
+  "buildStatus" : "finished with errors",
+  "schema" : "TodoListViper",
+  "subSteps" : [
+    {
+      "parentIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_1",
+      "fetchedFromCache" : false,
+      "title" : "Prepare build",
+      "warningCount" : 0,
+      "duration" : 0.026131033897399902,
+      "startTimestamp" : 1650457884.422698,
+      "signature" : "Prepare build",
+      "errors" : [
+
+      ],
+      "compilationEndTimestamp" : 1650457884.422698,
+      "compilationDuration" : 0,
+      "endDate" : "2022-04-20T12:31:24.449000Z",
+      "errorCount" : 0,
+      "domain" : "Xcode.IDEActivityLogDomainType.XCBuild.Preparation",
+      "type" : "target",
+      "identifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_2",
+      "buildStatus" : "finished with errors",
+      "schema" : "TodoListViper",
+      "subSteps" : [
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_2",
+          "fetchedFromCache" : false,
+          "title" : "Analyze workspace",
+          "warningCount" : 0,
+          "duration" : 0.00012600421905517578,
+          "startTimestamp" : 1650457884.443054,
+          "signature" : "",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650457884.4431801,
+          "compilationDuration" : 0.00012600421905517578,
+          "endDate" : "2022-04-20T12:31:24.443000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_3",
+          "buildStatus" : "finished with errors",
+          "schema" : "TodoListViper",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650457884.4431801,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E",
+          "startDate" : "2022-04-20T12:31:24.443000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "",
+          "detailStepType" : "other"
+        },
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_2",
+          "fetchedFromCache" : true,
+          "title" : "Create build description",
+          "warningCount" : 0,
+          "duration" : 1.1720420122146606,
+          "startTimestamp" : 1650457826.253901,
+          "signature" : "",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650457827.4259429,
+          "compilationDuration" : 1.1720420122146606,
+          "endDate" : "2022-04-20T12:30:27.426000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_4",
+          "buildStatus" : "finished with errors",
+          "schema" : "TodoListViper",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650457827.4259429,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E",
+          "startDate" : "2022-04-20T12:30:26.254000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "",
+          "detailStepType" : "other"
+        },
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_2",
+          "fetchedFromCache" : true,
+          "title" : "CreateBuildDirectory \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoListViper-dziamuczfxewkkgbehsrkdslknct\/Index\/Build\/Intermediates.noindex",
+          "warningCount" : 0,
+          "duration" : 0.00017607212066650391,
+          "startTimestamp" : 1650457827.42993,
+          "signature" : "CreateBuildDirectory \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoListViper-dziamuczfxewkkgbehsrkdslknct\/Index\/Build\/Intermediates.noindex",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650457827.4301062,
+          "compilationDuration" : 0.00017607212066650391,
+          "endDate" : "2022-04-20T12:30:27.430000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_5",
+          "buildStatus" : "finished with errors",
+          "schema" : "TodoListViper",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650457827.4301062,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E",
+          "startDate" : "2022-04-20T12:30:27.430000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "",
+          "detailStepType" : "other"
+        },
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_2",
+          "fetchedFromCache" : true,
+          "title" : "CreateBuildDirectory \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoListViper-dziamuczfxewkkgbehsrkdslknct\/Index\/Build\/Products",
+          "warningCount" : 0,
+          "duration" : 0.00042200088500976562,
+          "startTimestamp" : 1650457827.4296598,
+          "signature" : "CreateBuildDirectory \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoListViper-dziamuczfxewkkgbehsrkdslknct\/Index\/Build\/Products",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650457827.4300818,
+          "compilationDuration" : 0.00042200088500976562,
+          "endDate" : "2022-04-20T12:30:27.430000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_6",
+          "buildStatus" : "finished with errors",
+          "schema" : "TodoListViper",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650457827.4300818,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E",
+          "startDate" : "2022-04-20T12:30:27.430000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "",
+          "detailStepType" : "other"
+        },
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_2",
+          "fetchedFromCache" : true,
+          "title" : "CreateBuildDirectory \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoListViper-dziamuczfxewkkgbehsrkdslknct\/Index\/Build\/Products\/Debug-iphoneos",
+          "warningCount" : 0,
+          "duration" : 0.00010204315185546875,
+          "startTimestamp" : 1650457827.4352789,
+          "signature" : "CreateBuildDirectory \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoListViper-dziamuczfxewkkgbehsrkdslknct\/Index\/Build\/Products\/Debug-iphoneos",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650457827.4353809,
+          "compilationDuration" : 0.00010204315185546875,
+          "endDate" : "2022-04-20T12:30:27.435000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_7",
+          "buildStatus" : "finished with errors",
+          "schema" : "TodoListViper",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650457827.4353809,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E",
+          "startDate" : "2022-04-20T12:30:27.435000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "",
+          "detailStepType" : "other"
+        },
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_2",
+          "fetchedFromCache" : true,
+          "title" : "CreateBuildDirectory \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoListViper-dziamuczfxewkkgbehsrkdslknct\/Index\/Build\/Products\/Debug-iphonesimulator",
+          "warningCount" : 0,
+          "duration" : 8.106231689453125e-05,
+          "startTimestamp" : 1650457827.4352489,
+          "signature" : "CreateBuildDirectory \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoListViper-dziamuczfxewkkgbehsrkdslknct\/Index\/Build\/Products\/Debug-iphonesimulator",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650457827.4353299,
+          "compilationDuration" : 8.106231689453125e-05,
+          "endDate" : "2022-04-20T12:30:27.435000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_8",
+          "buildStatus" : "finished with errors",
+          "schema" : "TodoListViper",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650457827.4353299,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E",
+          "startDate" : "2022-04-20T12:30:27.435000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "",
+          "detailStepType" : "other"
+        }
+      ],
+      "endTimestamp" : 1650457884.4488292,
+      "architecture" : "",
+      "machineName" : "Даниил’s Mac mini",
+      "buildIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E",
+      "startDate" : "2022-04-20T12:31:24.423000Z",
+      "warnings" : [
+
+      ],
+      "notes" : [
+        {
+          "characterRangeStart" : 0,
+          "startingColumnNumber" : 0,
+          "endingColumnNumber" : 0,
+          "characterRangeEnd" : 0,
+          "detail" : "note: Using new build system\rnote: Planning\rnote: Build preparation complete\rnote: Building targets in dependency order",
+          "title" : "Using new build system",
+          "endingLineNumber" : 0,
+          "type" : "note",
+          "documentURL" : "",
+          "startingLineNumber" : 0,
+          "severity" : 0
+        },
+        {
+          "characterRangeStart" : 0,
+          "startingColumnNumber" : 0,
+          "endingColumnNumber" : 0,
+          "characterRangeEnd" : 0,
+          "detail" : "note: Using new build system\rnote: Planning\rnote: Build preparation complete\rnote: Building targets in dependency order",
+          "title" : "Planning",
+          "endingLineNumber" : 0,
+          "type" : "note",
+          "documentURL" : "",
+          "startingLineNumber" : 0,
+          "severity" : 0
+        },
+        {
+          "characterRangeStart" : 0,
+          "startingColumnNumber" : 0,
+          "endingColumnNumber" : 0,
+          "characterRangeEnd" : 0,
+          "detail" : "note: Using new build system\rnote: Planning\rnote: Build preparation complete\rnote: Building targets in dependency order",
+          "title" : "Build preparation complete",
+          "endingLineNumber" : 0,
+          "type" : "note",
+          "documentURL" : "",
+          "startingLineNumber" : 0,
+          "severity" : 0
+        },
+        {
+          "characterRangeStart" : 0,
+          "startingColumnNumber" : 0,
+          "endingColumnNumber" : 0,
+          "characterRangeEnd" : 0,
+          "detail" : "note: Using new build system\rnote: Planning\rnote: Build preparation complete\rnote: Building targets in dependency order",
+          "title" : "Building targets in dependency order",
+          "endingLineNumber" : 0,
+          "type" : "note",
+          "documentURL" : "",
+          "startingLineNumber" : 0,
+          "severity" : 0
+        }
+      ],
+      "documentURL" : "",
+      "detailStepType" : "none"
+    },
+    {
+      "parentIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_1",
+      "fetchedFromCache" : true,
+      "title" : "Build target TodoListViper",
+      "warningCount" : 0,
+      "duration" : 16.228330969810486,
+      "startTimestamp" : 1650457827.4350681,
+      "signature" : "TodoListViper-dziamuczfxewkkgbehsrkdslknct",
+      "errors" : [
+
+      ],
+      "compilationEndTimestamp" : 1650457827.4350681,
+      "compilationDuration" : 0,
+      "endDate" : "2022-04-20T12:30:43.663000Z",
+      "errorCount" : 0,
+      "domain" : "Xcode.IDEActivityLogDomainType.target.product-type.application",
+      "type" : "target",
+      "identifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_9",
+      "buildStatus" : "finished with errors",
+      "schema" : "TodoListViper",
+      "subSteps" : [
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_9",
+          "fetchedFromCache" : true,
+          "title" : "Create directory TodoListViper.app",
+          "warningCount" : 0,
+          "duration" : 5.1021575927734375e-05,
+          "startTimestamp" : 1650451821.5885282,
+          "signature" : "MkDir \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoListViper-dziamuczfxewkkgbehsrkdslknct\/Build\/Products\/Debug-iphonesimulator\/TodoListViper.app (in target 'TodoListViper' from project 'TodoListViper')",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650451821.5885792,
+          "compilationDuration" : 5.1021575927734375e-05,
+          "endDate" : "2022-04-20T10:50:21.589000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_10",
+          "buildStatus" : "finished with errors",
+          "schema" : "TodoListViper",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650451821.5885792,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E",
+          "startDate" : "2022-04-20T10:50:21.589000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "",
+          "detailStepType" : "other"
+        },
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_9",
+          "fetchedFromCache" : true,
+          "title" : "Write Entitlements-Simulated.plist",
+          "warningCount" : 0,
+          "duration" : 0.00012290477752685547,
+          "startTimestamp" : 1650457827.4352269,
+          "signature" : "WriteAuxiliaryFile \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoListViper-dziamuczfxewkkgbehsrkdslknct\/Build\/Intermediates.noindex\/TodoListViper.build\/Debug-iphonesimulator\/TodoListViper.build\/DerivedSources\/Entitlements-Simulated.plist (in target 'TodoListViper' from project 'TodoListViper')",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650457827.4353499,
+          "compilationDuration" : 0.00012290477752685547,
+          "endDate" : "2022-04-20T12:30:27.435000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_11",
+          "buildStatus" : "finished with errors",
+          "schema" : "TodoListViper",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650457827.4353499,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E",
+          "startDate" : "2022-04-20T12:30:27.435000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "",
+          "detailStepType" : "writeAuxiliaryFile"
+        },
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_9",
+          "fetchedFromCache" : true,
+          "title" : "Write Entitlements.plist",
+          "warningCount" : 0,
+          "duration" : 2.8014183044433594e-05,
+          "startTimestamp" : 1650457827.435396,
+          "signature" : "WriteAuxiliaryFile \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoListViper-dziamuczfxewkkgbehsrkdslknct\/Build\/Intermediates.noindex\/TodoListViper.build\/Debug-iphonesimulator\/TodoListViper.build\/DerivedSources\/Entitlements.plist (in target 'TodoListViper' from project 'TodoListViper')",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650457827.4354239,
+          "compilationDuration" : 2.8014183044433594e-05,
+          "endDate" : "2022-04-20T12:30:27.435000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_12",
+          "buildStatus" : "finished with errors",
+          "schema" : "TodoListViper",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650457827.4354239,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E",
+          "startDate" : "2022-04-20T12:30:27.435000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "",
+          "detailStepType" : "writeAuxiliaryFile"
+        },
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_9",
+          "fetchedFromCache" : true,
+          "title" : "Process product packaging",
+          "warningCount" : 0,
+          "duration" : 0.00029206275939941406,
+          "startTimestamp" : 1650457827.4354339,
+          "signature" : "ProcessProductPackaging \"\" \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoListViper-dziamuczfxewkkgbehsrkdslknct\/Build\/Intermediates.noindex\/TodoListViper.build\/Debug-iphonesimulator\/TodoListViper.build\/TodoListViper.app-Simulated.xcent (in target 'TodoListViper' from project 'TodoListViper')",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650457827.4357262,
+          "compilationDuration" : 0.00029206275939941406,
+          "endDate" : "2022-04-20T12:30:27.436000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_13",
+          "buildStatus" : "finished with errors",
+          "schema" : "TodoListViper",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650457827.4357262,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E",
+          "startDate" : "2022-04-20T12:30:27.435000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "",
+          "detailStepType" : "other"
+        },
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_9",
+          "fetchedFromCache" : true,
+          "title" : "Process product packaging",
+          "warningCount" : 0,
+          "duration" : 0.00032091140747070312,
+          "startTimestamp" : 1650457827.4354482,
+          "signature" : "ProcessProductPackaging \"\" \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoListViper-dziamuczfxewkkgbehsrkdslknct\/Build\/Intermediates.noindex\/TodoListViper.build\/Debug-iphonesimulator\/TodoListViper.build\/TodoListViper.app.xcent (in target 'TodoListViper' from project 'TodoListViper')",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650457827.4357691,
+          "compilationDuration" : 0.00032091140747070312,
+          "endDate" : "2022-04-20T12:30:27.436000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_14",
+          "buildStatus" : "finished with errors",
+          "schema" : "TodoListViper",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650457827.4357691,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E",
+          "startDate" : "2022-04-20T12:30:27.435000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "",
+          "detailStepType" : "other"
+        },
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_9",
+          "fetchedFromCache" : true,
+          "title" : "Write TodoListViper-own-target-headers.hmap",
+          "warningCount" : 0,
+          "duration" : 0.0010200738906860352,
+          "startTimestamp" : 1650457827.4361238,
+          "signature" : "WriteAuxiliaryFile \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoListViper-dziamuczfxewkkgbehsrkdslknct\/Build\/Intermediates.noindex\/TodoListViper.build\/Debug-iphonesimulator\/TodoListViper.build\/TodoListViper-own-target-headers.hmap (in target 'TodoListViper' from project 'TodoListViper')",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650457827.437144,
+          "compilationDuration" : 0.0010200738906860352,
+          "endDate" : "2022-04-20T12:30:27.437000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_15",
+          "buildStatus" : "finished with errors",
+          "schema" : "TodoListViper",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650457827.437144,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E",
+          "startDate" : "2022-04-20T12:30:27.436000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "",
+          "detailStepType" : "writeAuxiliaryFile"
+        },
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_9",
+          "fetchedFromCache" : true,
+          "title" : "Write TodoListViper-all-non-framework-target-headers.hmap",
+          "warningCount" : 0,
+          "duration" : 0.00079798698425292969,
+          "startTimestamp" : 1650457827.4363661,
+          "signature" : "WriteAuxiliaryFile \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoListViper-dziamuczfxewkkgbehsrkdslknct\/Build\/Intermediates.noindex\/TodoListViper.build\/Debug-iphonesimulator\/TodoListViper.build\/TodoListViper-all-non-framework-target-headers.hmap (in target 'TodoListViper' from project 'TodoListViper')",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650457827.4371638,
+          "compilationDuration" : 0.00079798698425292969,
+          "endDate" : "2022-04-20T12:30:27.437000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_16",
+          "buildStatus" : "finished with errors",
+          "schema" : "TodoListViper",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650457827.4371638,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E",
+          "startDate" : "2022-04-20T12:30:27.436000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "",
+          "detailStepType" : "writeAuxiliaryFile"
+        },
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_9",
+          "fetchedFromCache" : true,
+          "title" : "Write TodoListViper-generated-files.hmap",
+          "warningCount" : 0,
+          "duration" : 0.00063991546630859375,
+          "startTimestamp" : 1650457827.4365749,
+          "signature" : "WriteAuxiliaryFile \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoListViper-dziamuczfxewkkgbehsrkdslknct\/Build\/Intermediates.noindex\/TodoListViper.build\/Debug-iphonesimulator\/TodoListViper.build\/TodoListViper-generated-files.hmap (in target 'TodoListViper' from project 'TodoListViper')",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650457827.4372149,
+          "compilationDuration" : 0.00063991546630859375,
+          "endDate" : "2022-04-20T12:30:27.437000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_17",
+          "buildStatus" : "finished with errors",
+          "schema" : "TodoListViper",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650457827.4372149,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E",
+          "startDate" : "2022-04-20T12:30:27.437000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "",
+          "detailStepType" : "writeAuxiliaryFile"
+        },
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_9",
+          "fetchedFromCache" : true,
+          "title" : "Write TodoListViper-project-headers.hmap",
+          "warningCount" : 0,
+          "duration" : 0.00045502185821533203,
+          "startTimestamp" : 1650457827.43678,
+          "signature" : "WriteAuxiliaryFile \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoListViper-dziamuczfxewkkgbehsrkdslknct\/Build\/Intermediates.noindex\/TodoListViper.build\/Debug-iphonesimulator\/TodoListViper.build\/TodoListViper-project-headers.hmap (in target 'TodoListViper' from project 'TodoListViper')",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650457827.4372349,
+          "compilationDuration" : 0.00045502185821533203,
+          "endDate" : "2022-04-20T12:30:27.437000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_18",
+          "buildStatus" : "finished with errors",
+          "schema" : "TodoListViper",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650457827.4372349,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E",
+          "startDate" : "2022-04-20T12:30:27.437000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "",
+          "detailStepType" : "writeAuxiliaryFile"
+        },
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_9",
+          "fetchedFromCache" : true,
+          "title" : "Write TodoListViper-all-target-headers.hmap",
+          "warningCount" : 0,
+          "duration" : 0.00031900405883789062,
+          "startTimestamp" : 1650457827.4369888,
+          "signature" : "WriteAuxiliaryFile \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoListViper-dziamuczfxewkkgbehsrkdslknct\/Build\/Intermediates.noindex\/TodoListViper.build\/Debug-iphonesimulator\/TodoListViper.build\/TodoListViper-all-target-headers.hmap (in target 'TodoListViper' from project 'TodoListViper')",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650457827.4373078,
+          "compilationDuration" : 0.00031900405883789062,
+          "endDate" : "2022-04-20T12:30:27.437000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_19",
+          "buildStatus" : "finished with errors",
+          "schema" : "TodoListViper",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650457827.4373078,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E",
+          "startDate" : "2022-04-20T12:30:27.437000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "",
+          "detailStepType" : "writeAuxiliaryFile"
+        },
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_9",
+          "fetchedFromCache" : true,
+          "title" : "Write all-product-headers.yaml",
+          "warningCount" : 0,
+          "duration" : 0.00033307075500488281,
+          "startTimestamp" : 1650457827.437691,
+          "signature" : "WriteAuxiliaryFile \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoListViper-dziamuczfxewkkgbehsrkdslknct\/Build\/Intermediates.noindex\/TodoListViper.build\/Debug-iphonesimulator\/TodoListViper.build\/all-product-headers.yaml (in target 'TodoListViper' from project 'TodoListViper')",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650457827.438024,
+          "compilationDuration" : 0.00033307075500488281,
+          "endDate" : "2022-04-20T12:30:27.438000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_20",
+          "buildStatus" : "finished with errors",
+          "schema" : "TodoListViper",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650457827.438024,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E",
+          "startDate" : "2022-04-20T12:30:27.438000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "",
+          "detailStepType" : "writeAuxiliaryFile"
+        },
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_9",
+          "fetchedFromCache" : true,
+          "title" : "Write TodoListViper.hmap",
+          "warningCount" : 0,
+          "duration" : 0.00021898746490478516,
+          "startTimestamp" : 1650457827.4378891,
+          "signature" : "WriteAuxiliaryFile \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoListViper-dziamuczfxewkkgbehsrkdslknct\/Build\/Intermediates.noindex\/TodoListViper.build\/Debug-iphonesimulator\/TodoListViper.build\/TodoListViper.hmap (in target 'TodoListViper' from project 'TodoListViper')",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650457827.438108,
+          "compilationDuration" : 0.00021898746490478516,
+          "endDate" : "2022-04-20T12:30:27.438000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_21",
+          "buildStatus" : "finished with errors",
+          "schema" : "TodoListViper",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650457827.438108,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E",
+          "startDate" : "2022-04-20T12:30:27.438000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "",
+          "detailStepType" : "writeAuxiliaryFile"
+        },
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_9",
+          "fetchedFromCache" : true,
+          "title" : "Write TodoListViper.SwiftFileList (x86_64)",
+          "warningCount" : 0,
+          "duration" : 0.00041401386260986328,
+          "startTimestamp" : 1650457827.438369,
+          "signature" : "WriteAuxiliaryFile \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoListViper-dziamuczfxewkkgbehsrkdslknct\/Build\/Intermediates.noindex\/TodoListViper.build\/Debug-iphonesimulator\/TodoListViper.build\/Objects-normal\/x86_64\/TodoListViper.SwiftFileList (in target 'TodoListViper' from project 'TodoListViper')",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650457827.4387832,
+          "compilationDuration" : 0.00041401386260986328,
+          "endDate" : "2022-04-20T12:30:27.439000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_22",
+          "buildStatus" : "finished with errors",
+          "schema" : "TodoListViper",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650457827.4387832,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E",
+          "startDate" : "2022-04-20T12:30:27.438000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "",
+          "detailStepType" : "writeAuxiliaryFile"
+        },
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_9",
+          "fetchedFromCache" : true,
+          "title" : "Write TodoListViper-OutputFileMap.json (x86_64)",
+          "warningCount" : 0,
+          "duration" : 0.00031197071075439453,
+          "startTimestamp" : 1650457827.438544,
+          "signature" : "WriteAuxiliaryFile \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoListViper-dziamuczfxewkkgbehsrkdslknct\/Build\/Intermediates.noindex\/TodoListViper.build\/Debug-iphonesimulator\/TodoListViper.build\/Objects-normal\/x86_64\/TodoListViper-OutputFileMap.json (in target 'TodoListViper' from project 'TodoListViper')",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650457827.4388561,
+          "compilationDuration" : 0.00031197071075439453,
+          "endDate" : "2022-04-20T12:30:27.439000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_23",
+          "buildStatus" : "finished with errors",
+          "schema" : "TodoListViper",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650457827.4388561,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E",
+          "startDate" : "2022-04-20T12:30:27.439000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "",
+          "detailStepType" : "writeAuxiliaryFile"
+        },
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_9",
+          "fetchedFromCache" : true,
+          "title" : "Compile Swift source files (x86_64)",
+          "warningCount" : 0,
+          "duration" : 0.25919198989868164,
+          "startTimestamp" : 1650457827.440057,
+          "signature" : "CompileSwiftSources normal x86_64 com.apple.xcode.tools.swift.compiler (in target 'TodoListViper' from project 'TodoListViper')",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650457827.699249,
+          "compilationDuration" : 0.25919198989868164,
+          "endDate" : "2022-04-20T12:30:27.699000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_24",
+          "buildStatus" : "finished with errors",
+          "schema" : "TodoListViper",
+          "subSteps" : [
+            {
+              "parentIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_24",
+              "fetchedFromCache" : true,
+              "title" : "Compile AppDelegate.swift (x86_64)",
+              "warningCount" : 0,
+              "duration" : 0.41870999336242676,
+              "startTimestamp" : 1650451821.732379,
+              "signature" : "CompileSwift normal x86_64 \/Users\/daniilkravchuk\/Desktop\/Study\/VIPER\/TodoListViper\/AppDelegate\/AppDelegate.swift (in target 'TodoListViper' from project 'TodoListViper')",
+              "errors" : [
+
+              ],
+              "compilationEndTimestamp" : 1650451822.151089,
+              "compilationDuration" : 0.41870999336242676,
+              "endDate" : "2022-04-20T10:50:22.151000Z",
+              "errorCount" : 0,
+              "domain" : "com.apple.dt.IDE.BuildLogSection",
+              "type" : "detail",
+              "identifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_25",
+              "buildStatus" : "finished with errors",
+              "schema" : "TodoListViper",
+              "subSteps" : [
+
+              ],
+              "endTimestamp" : 1650451822.151089,
+              "architecture" : "x86_64",
+              "machineName" : "Даниил’s Mac mini",
+              "buildIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E",
+              "startDate" : "2022-04-20T10:50:21.732000Z",
+              "warnings" : [
+
+              ],
+              "notes" : [
+
+              ],
+              "documentURL" : "file:\/\/\/Users\/daniilkravchuk\/Desktop\/Study\/VIPER\/TodoListViper\/AppDelegate\/AppDelegate.swift",
+              "detailStepType" : "swiftCompilation"
+            },
+            {
+              "parentIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_24",
+              "fetchedFromCache" : true,
+              "title" : "Compile TodoItem.swift (x86_64)",
+              "warningCount" : 0,
+              "duration" : 0.42482602596282959,
+              "startTimestamp" : 1650451821.726814,
+              "signature" : "CompileSwift normal x86_64 \/Users\/daniilkravchuk\/Desktop\/Study\/VIPER\/TodoListViper\/Entities\/TodoItem.swift (in target 'TodoListViper' from project 'TodoListViper')",
+              "errors" : [
+
+              ],
+              "compilationEndTimestamp" : 1650451822.1516399,
+              "compilationDuration" : 0.42482602596282959,
+              "endDate" : "2022-04-20T10:50:22.152000Z",
+              "errorCount" : 0,
+              "domain" : "com.apple.dt.IDE.BuildLogSection",
+              "type" : "detail",
+              "identifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_26",
+              "buildStatus" : "finished with errors",
+              "schema" : "TodoListViper",
+              "subSteps" : [
+
+              ],
+              "endTimestamp" : 1650451822.1516399,
+              "architecture" : "x86_64",
+              "machineName" : "Даниил’s Mac mini",
+              "buildIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E",
+              "startDate" : "2022-04-20T10:50:21.727000Z",
+              "warnings" : [
+
+              ],
+              "notes" : [
+
+              ],
+              "documentURL" : "file:\/\/\/Users\/daniilkravchuk\/Desktop\/Study\/VIPER\/TodoListViper\/Entities\/TodoItem.swift",
+              "detailStepType" : "swiftCompilation"
+            },
+            {
+              "parentIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_24",
+              "fetchedFromCache" : true,
+              "title" : "Compile TodoStore.swift (x86_64)",
+              "warningCount" : 0,
+              "duration" : 0.41100895404815674,
+              "startTimestamp" : 1650451821.738867,
+              "signature" : "CompileSwift normal x86_64 \/Users\/daniilkravchuk\/Desktop\/Study\/VIPER\/TodoListViper\/Entities\/TodoStore.swift (in target 'TodoListViper' from project 'TodoListViper')",
+              "errors" : [
+
+              ],
+              "compilationEndTimestamp" : 1650451822.1498761,
+              "compilationDuration" : 0.41100895404815674,
+              "endDate" : "2022-04-20T10:50:22.150000Z",
+              "errorCount" : 0,
+              "domain" : "com.apple.dt.IDE.BuildLogSection",
+              "type" : "detail",
+              "identifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_27",
+              "buildStatus" : "finished with errors",
+              "schema" : "TodoListViper",
+              "subSteps" : [
+
+              ],
+              "endTimestamp" : 1650451822.1498761,
+              "architecture" : "x86_64",
+              "machineName" : "Даниил’s Mac mini",
+              "buildIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E",
+              "startDate" : "2022-04-20T10:50:21.739000Z",
+              "warnings" : [
+
+              ],
+              "notes" : [
+
+              ],
+              "documentURL" : "file:\/\/\/Users\/daniilkravchuk\/Desktop\/Study\/VIPER\/TodoListViper\/Entities\/TodoStore.swift",
+              "detailStepType" : "swiftCompilation"
+            },
+            {
+              "parentIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_24",
+              "fetchedFromCache" : true,
+              "title" : "Compile TodoDetailInteractor.swift (x86_64)",
+              "warningCount" : 0,
+              "duration" : 0.41775798797607422,
+              "startTimestamp" : 1650451821.732518,
+              "signature" : "CompileSwift normal x86_64 \/Users\/daniilkravchuk\/Desktop\/Study\/VIPER\/TodoListViper\/TodoDetailModule\/Interactor\/TodoDetailInteractor.swift (in target 'TodoListViper' from project 'TodoListViper')",
+              "errors" : [
+
+              ],
+              "compilationEndTimestamp" : 1650451822.1502759,
+              "compilationDuration" : 0.41775798797607422,
+              "endDate" : "2022-04-20T10:50:22.150000Z",
+              "errorCount" : 0,
+              "domain" : "com.apple.dt.IDE.BuildLogSection",
+              "type" : "detail",
+              "identifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_28",
+              "buildStatus" : "finished with errors",
+              "schema" : "TodoListViper",
+              "subSteps" : [
+
+              ],
+              "endTimestamp" : 1650451822.1502759,
+              "architecture" : "x86_64",
+              "machineName" : "Даниил’s Mac mini",
+              "buildIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E",
+              "startDate" : "2022-04-20T10:50:21.733000Z",
+              "warnings" : [
+
+              ],
+              "notes" : [
+
+              ],
+              "documentURL" : "file:\/\/\/Users\/daniilkravchuk\/Desktop\/Study\/VIPER\/TodoListViper\/TodoDetailModule\/Interactor\/TodoDetailInteractor.swift",
+              "detailStepType" : "swiftCompilation"
+            },
+            {
+              "parentIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_24",
+              "fetchedFromCache" : true,
+              "title" : "Compile TodoDetailPresenter.swift (x86_64)",
+              "warningCount" : 0,
+              "duration" : 0.48968195915222168,
+              "startTimestamp" : 1650451821.7152882,
+              "signature" : "CompileSwift normal x86_64 \/Users\/daniilkravchuk\/Desktop\/Study\/VIPER\/TodoListViper\/TodoDetailModule\/Presenter\/TodoDetailPresenter.swift (in target 'TodoListViper' from project 'TodoListViper')",
+              "errors" : [
+
+              ],
+              "compilationEndTimestamp" : 1650451822.2049699,
+              "compilationDuration" : 0.48968195915222168,
+              "endDate" : "2022-04-20T10:50:22.205000Z",
+              "errorCount" : 0,
+              "domain" : "com.apple.dt.IDE.BuildLogSection",
+              "type" : "detail",
+              "identifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_29",
+              "buildStatus" : "finished with errors",
+              "schema" : "TodoListViper",
+              "subSteps" : [
+
+              ],
+              "endTimestamp" : 1650451822.2049699,
+              "architecture" : "x86_64",
+              "machineName" : "Даниил’s Mac mini",
+              "buildIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E",
+              "startDate" : "2022-04-20T10:50:21.715000Z",
+              "warnings" : [
+
+              ],
+              "notes" : [
+
+              ],
+              "documentURL" : "file:\/\/\/Users\/daniilkravchuk\/Desktop\/Study\/VIPER\/TodoListViper\/TodoDetailModule\/Presenter\/TodoDetailPresenter.swift",
+              "detailStepType" : "swiftCompilation"
+            },
+            {
+              "parentIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_24",
+              "fetchedFromCache" : true,
+              "title" : "Compile TodoDetailProtocols.swift (x86_64)",
+              "warningCount" : 0,
+              "duration" : 0.40517497062683105,
+              "startTimestamp" : 1650451821.7457261,
+              "signature" : "CompileSwift normal x86_64 \/Users\/daniilkravchuk\/Desktop\/Study\/VIPER\/TodoListViper\/TodoDetailModule\/Protocols\/TodoDetailProtocols.swift (in target 'TodoListViper' from project 'TodoListViper')",
+              "errors" : [
+
+              ],
+              "compilationEndTimestamp" : 1650451822.1509008,
+              "compilationDuration" : 0.40517497062683105,
+              "endDate" : "2022-04-20T10:50:22.151000Z",
+              "errorCount" : 0,
+              "domain" : "com.apple.dt.IDE.BuildLogSection",
+              "type" : "detail",
+              "identifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_30",
+              "buildStatus" : "finished with errors",
+              "schema" : "TodoListViper",
+              "subSteps" : [
+
+              ],
+              "endTimestamp" : 1650451822.1509008,
+              "architecture" : "x86_64",
+              "machineName" : "Даниил’s Mac mini",
+              "buildIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E",
+              "startDate" : "2022-04-20T10:50:21.746000Z",
+              "warnings" : [
+
+              ],
+              "notes" : [
+
+              ],
+              "documentURL" : "file:\/\/\/Users\/daniilkravchuk\/Desktop\/Study\/VIPER\/TodoListViper\/TodoDetailModule\/Protocols\/TodoDetailProtocols.swift",
+              "detailStepType" : "swiftCompilation"
+            },
+            {
+              "parentIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_24",
+              "fetchedFromCache" : true,
+              "title" : "Compile TodoDetailRouter.swift (x86_64)",
+              "warningCount" : 0,
+              "duration" : 0.42464995384216309,
+              "startTimestamp" : 1650451821.7266181,
+              "signature" : "CompileSwift normal x86_64 \/Users\/daniilkravchuk\/Desktop\/Study\/VIPER\/TodoListViper\/TodoDetailModule\/Router\/TodoDetailRouter.swift (in target 'TodoListViper' from project 'TodoListViper')",
+              "errors" : [
+
+              ],
+              "compilationEndTimestamp" : 1650451822.151268,
+              "compilationDuration" : 0.42464995384216309,
+              "endDate" : "2022-04-20T10:50:22.151000Z",
+              "errorCount" : 0,
+              "domain" : "com.apple.dt.IDE.BuildLogSection",
+              "type" : "detail",
+              "identifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_31",
+              "buildStatus" : "finished with errors",
+              "schema" : "TodoListViper",
+              "subSteps" : [
+
+              ],
+              "endTimestamp" : 1650451822.151268,
+              "architecture" : "x86_64",
+              "machineName" : "Даниил’s Mac mini",
+              "buildIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E",
+              "startDate" : "2022-04-20T10:50:21.727000Z",
+              "warnings" : [
+
+              ],
+              "notes" : [
+
+              ],
+              "documentURL" : "file:\/\/\/Users\/daniilkravchuk\/Desktop\/Study\/VIPER\/TodoListViper\/TodoDetailModule\/Router\/TodoDetailRouter.swift",
+              "detailStepType" : "swiftCompilation"
+            },
+            {
+              "parentIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_24",
+              "fetchedFromCache" : true,
+              "title" : "Compile TodoDetailViewController.swift (x86_64)",
+              "warningCount" : 0,
+              "duration" : 0.43362593650817871,
+              "startTimestamp" : 1650451821.716392,
+              "signature" : "CompileSwift normal x86_64 \/Users\/daniilkravchuk\/Desktop\/Study\/VIPER\/TodoListViper\/TodoDetailModule\/View\/TodoDetailViewController.swift (in target 'TodoListViper' from project 'TodoListViper')",
+              "errors" : [
+
+              ],
+              "compilationEndTimestamp" : 1650451822.150018,
+              "compilationDuration" : 0.43362593650817871,
+              "endDate" : "2022-04-20T10:50:22.150000Z",
+              "errorCount" : 0,
+              "domain" : "com.apple.dt.IDE.BuildLogSection",
+              "type" : "detail",
+              "identifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_32",
+              "buildStatus" : "finished with errors",
+              "schema" : "TodoListViper",
+              "subSteps" : [
+
+              ],
+              "endTimestamp" : 1650451822.150018,
+              "architecture" : "x86_64",
+              "machineName" : "Даниил’s Mac mini",
+              "buildIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E",
+              "startDate" : "2022-04-20T10:50:21.716000Z",
+              "warnings" : [
+
+              ],
+              "notes" : [
+
+              ],
+              "documentURL" : "file:\/\/\/Users\/daniilkravchuk\/Desktop\/Study\/VIPER\/TodoListViper\/TodoDetailModule\/View\/TodoDetailViewController.swift",
+              "detailStepType" : "swiftCompilation"
+            },
+            {
+              "parentIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_24",
+              "fetchedFromCache" : true,
+              "title" : "Compile TodoListInteractor.swift (x86_64)",
+              "warningCount" : 0,
+              "duration" : 0.41776299476623535,
+              "startTimestamp" : 1650451821.7327471,
+              "signature" : "CompileSwift normal x86_64 \/Users\/daniilkravchuk\/Desktop\/Study\/VIPER\/TodoListViper\/TodoListModule\/Interactor\/TodoListInteractor.swift (in target 'TodoListViper' from project 'TodoListViper')",
+              "errors" : [
+
+              ],
+              "compilationEndTimestamp" : 1650451822.1505098,
+              "compilationDuration" : 0.41776299476623535,
+              "endDate" : "2022-04-20T10:50:22.151000Z",
+              "errorCount" : 0,
+              "domain" : "com.apple.dt.IDE.BuildLogSection",
+              "type" : "detail",
+              "identifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_33",
+              "buildStatus" : "finished with errors",
+              "schema" : "TodoListViper",
+              "subSteps" : [
+
+              ],
+              "endTimestamp" : 1650451822.1505098,
+              "architecture" : "x86_64",
+              "machineName" : "Даниил’s Mac mini",
+              "buildIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E",
+              "startDate" : "2022-04-20T10:50:21.733000Z",
+              "warnings" : [
+
+              ],
+              "notes" : [
+
+              ],
+              "documentURL" : "file:\/\/\/Users\/daniilkravchuk\/Desktop\/Study\/VIPER\/TodoListViper\/TodoListModule\/Interactor\/TodoListInteractor.swift",
+              "detailStepType" : "swiftCompilation"
+            },
+            {
+              "parentIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_24",
+              "fetchedFromCache" : true,
+              "title" : "Compile TodoListPresenter.swift (x86_64)",
+              "warningCount" : 0,
+              "duration" : 0.415505051612854,
+              "startTimestamp" : 1650451821.734128,
+              "signature" : "CompileSwift normal x86_64 \/Users\/daniilkravchuk\/Desktop\/Study\/VIPER\/TodoListViper\/TodoListModule\/Presenter\/TodoListPresenter.swift (in target 'TodoListViper' from project 'TodoListViper')",
+              "errors" : [
+
+              ],
+              "compilationEndTimestamp" : 1650451822.1496329,
+              "compilationDuration" : 0.415505051612854,
+              "endDate" : "2022-04-20T10:50:22.150000Z",
+              "errorCount" : 0,
+              "domain" : "com.apple.dt.IDE.BuildLogSection",
+              "type" : "detail",
+              "identifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_34",
+              "buildStatus" : "finished with errors",
+              "schema" : "TodoListViper",
+              "subSteps" : [
+
+              ],
+              "endTimestamp" : 1650451822.1496329,
+              "architecture" : "x86_64",
+              "machineName" : "Даниил’s Mac mini",
+              "buildIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E",
+              "startDate" : "2022-04-20T10:50:21.734000Z",
+              "warnings" : [
+
+              ],
+              "notes" : [
+
+              ],
+              "documentURL" : "file:\/\/\/Users\/daniilkravchuk\/Desktop\/Study\/VIPER\/TodoListViper\/TodoListModule\/Presenter\/TodoListPresenter.swift",
+              "detailStepType" : "swiftCompilation"
+            },
+            {
+              "parentIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_24",
+              "fetchedFromCache" : true,
+              "title" : "Compile TodoListProtocols.swift (x86_64)",
+              "warningCount" : 0,
+              "duration" : 0.40782904624938965,
+              "startTimestamp" : 1650451821.742878,
+              "signature" : "CompileSwift normal x86_64 \/Users\/daniilkravchuk\/Desktop\/Study\/VIPER\/TodoListViper\/TodoListModule\/Protocols\/TodoListProtocols.swift (in target 'TodoListViper' from project 'TodoListViper')",
+              "errors" : [
+
+              ],
+              "compilationEndTimestamp" : 1650451822.150707,
+              "compilationDuration" : 0.40782904624938965,
+              "endDate" : "2022-04-20T10:50:22.151000Z",
+              "errorCount" : 0,
+              "domain" : "com.apple.dt.IDE.BuildLogSection",
+              "type" : "detail",
+              "identifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_35",
+              "buildStatus" : "finished with errors",
+              "schema" : "TodoListViper",
+              "subSteps" : [
+
+              ],
+              "endTimestamp" : 1650451822.150707,
+              "architecture" : "x86_64",
+              "machineName" : "Даниил’s Mac mini",
+              "buildIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E",
+              "startDate" : "2022-04-20T10:50:21.743000Z",
+              "warnings" : [
+
+              ],
+              "notes" : [
+
+              ],
+              "documentURL" : "file:\/\/\/Users\/daniilkravchuk\/Desktop\/Study\/VIPER\/TodoListViper\/TodoListModule\/Protocols\/TodoListProtocols.swift",
+              "detailStepType" : "swiftCompilation"
+            },
+            {
+              "parentIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_24",
+              "fetchedFromCache" : true,
+              "title" : "Compile TodoListRouter.swift (x86_64)",
+              "warningCount" : 0,
+              "duration" : 0.42470598220825195,
+              "startTimestamp" : 1650451821.726743,
+              "signature" : "CompileSwift normal x86_64 \/Users\/daniilkravchuk\/Desktop\/Study\/VIPER\/TodoListViper\/TodoListModule\/Router\/TodoListRouter.swift (in target 'TodoListViper' from project 'TodoListViper')",
+              "errors" : [
+
+              ],
+              "compilationEndTimestamp" : 1650451822.151449,
+              "compilationDuration" : 0.42470598220825195,
+              "endDate" : "2022-04-20T10:50:22.151000Z",
+              "errorCount" : 0,
+              "domain" : "com.apple.dt.IDE.BuildLogSection",
+              "type" : "detail",
+              "identifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_36",
+              "buildStatus" : "finished with errors",
+              "schema" : "TodoListViper",
+              "subSteps" : [
+
+              ],
+              "endTimestamp" : 1650451822.151449,
+              "architecture" : "x86_64",
+              "machineName" : "Даниил’s Mac mini",
+              "buildIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E",
+              "startDate" : "2022-04-20T10:50:21.727000Z",
+              "warnings" : [
+
+              ],
+              "notes" : [
+
+              ],
+              "documentURL" : "file:\/\/\/Users\/daniilkravchuk\/Desktop\/Study\/VIPER\/TodoListViper\/TodoListModule\/Router\/TodoListRouter.swift",
+              "detailStepType" : "swiftCompilation"
+            },
+            {
+              "parentIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_24",
+              "fetchedFromCache" : true,
+              "title" : "Compile TodoListViewController.swift (x86_64)",
+              "warningCount" : 0,
+              "duration" : 0.49143302440643311,
+              "startTimestamp" : 1650451821.7134509,
+              "signature" : "CompileSwift normal x86_64 \/Users\/daniilkravchuk\/Desktop\/Study\/VIPER\/TodoListViper\/TodoListModule\/View\/TodoListViewController.swift (in target 'TodoListViper' from project 'TodoListViper')",
+              "errors" : [
+
+              ],
+              "compilationEndTimestamp" : 1650451822.2048841,
+              "compilationDuration" : 0.49143302440643311,
+              "endDate" : "2022-04-20T10:50:22.205000Z",
+              "errorCount" : 0,
+              "domain" : "com.apple.dt.IDE.BuildLogSection",
+              "type" : "detail",
+              "identifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_37",
+              "buildStatus" : "finished with errors",
+              "schema" : "TodoListViper",
+              "subSteps" : [
+
+              ],
+              "endTimestamp" : 1650451822.2048841,
+              "architecture" : "x86_64",
+              "machineName" : "Даниил’s Mac mini",
+              "buildIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E",
+              "startDate" : "2022-04-20T10:50:21.713000Z",
+              "warnings" : [
+
+              ],
+              "notes" : [
+
+              ],
+              "documentURL" : "file:\/\/\/Users\/daniilkravchuk\/Desktop\/Study\/VIPER\/TodoListViper\/TodoListModule\/View\/TodoListViewController.swift",
+              "detailStepType" : "swiftCompilation"
+            }
+          ],
+          "endTimestamp" : 1650457827.699249,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E",
+          "startDate" : "2022-04-20T12:30:27.440000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "",
+          "detailStepType" : "swiftAggregatedCompilation"
+        },
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_9",
+          "fetchedFromCache" : true,
+          "title" : "Write TodoListViper.LinkFileList (x86_64)",
+          "warningCount" : 0,
+          "duration" : 0.0024939775466918945,
+          "startTimestamp" : 1650457827.701087,
+          "signature" : "WriteAuxiliaryFile \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoListViper-dziamuczfxewkkgbehsrkdslknct\/Build\/Intermediates.noindex\/TodoListViper.build\/Debug-iphonesimulator\/TodoListViper.build\/Objects-normal\/x86_64\/TodoListViper.LinkFileList (in target 'TodoListViper' from project 'TodoListViper')",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650457827.7035809,
+          "compilationDuration" : 0.0024939775466918945,
+          "endDate" : "2022-04-20T12:30:27.704000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_38",
+          "buildStatus" : "finished with errors",
+          "schema" : "TodoListViper",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650457827.7035809,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E",
+          "startDate" : "2022-04-20T12:30:27.701000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "",
+          "detailStepType" : "writeAuxiliaryFile"
+        },
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_9",
+          "fetchedFromCache" : true,
+          "title" : "Copy TodoListViper.swiftsourceinfo (x86_64)",
+          "warningCount" : 0,
+          "duration" : 0.002225041389465332,
+          "startTimestamp" : 1650457827.7015429,
+          "signature" : "PBXCp \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoListViper-dziamuczfxewkkgbehsrkdslknct\/Build\/Intermediates.noindex\/TodoListViper.build\/Debug-iphonesimulator\/TodoListViper.build\/Objects-normal\/x86_64\/TodoListViper.swiftsourceinfo \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoListViper-dziamuczfxewkkgbehsrkdslknct\/Build\/Products\/Debug-iphonesimulator\/TodoListViper.swiftmodule\/Project\/x86_64.swiftsourceinfo (in target 'TodoListViper' from project 'TodoListViper')",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650457827.703768,
+          "compilationDuration" : 0.002225041389465332,
+          "endDate" : "2022-04-20T12:30:27.704000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_39",
+          "buildStatus" : "finished with errors",
+          "schema" : "TodoListViper",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650457827.703768,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E",
+          "startDate" : "2022-04-20T12:30:27.702000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "file:\/\/\/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoListViper-dziamuczfxewkkgbehsrkdslknct\/Build\/Intermediates.noindex\/TodoListViper.build\/Debug-iphonesimulator\/TodoListViper.build\/Objects-normal\/x86_64\/TodoListViper.swiftsourceinfo",
+          "detailStepType" : "other"
+        },
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_9",
+          "fetchedFromCache" : true,
+          "title" : "Copy TodoListViper.swiftmodule (x86_64)",
+          "warningCount" : 0,
+          "duration" : 0.002013087272644043,
+          "startTimestamp" : 1650457827.701798,
+          "signature" : "PBXCp \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoListViper-dziamuczfxewkkgbehsrkdslknct\/Build\/Intermediates.noindex\/TodoListViper.build\/Debug-iphonesimulator\/TodoListViper.build\/Objects-normal\/x86_64\/TodoListViper.swiftmodule \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoListViper-dziamuczfxewkkgbehsrkdslknct\/Build\/Products\/Debug-iphonesimulator\/TodoListViper.swiftmodule\/x86_64.swiftmodule (in target 'TodoListViper' from project 'TodoListViper')",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650457827.7038112,
+          "compilationDuration" : 0.002013087272644043,
+          "endDate" : "2022-04-20T12:30:27.704000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_40",
+          "buildStatus" : "finished with errors",
+          "schema" : "TodoListViper",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650457827.7038112,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E",
+          "startDate" : "2022-04-20T12:30:27.702000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "file:\/\/\/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoListViper-dziamuczfxewkkgbehsrkdslknct\/Build\/Intermediates.noindex\/TodoListViper.build\/Debug-iphonesimulator\/TodoListViper.build\/Objects-normal\/x86_64\/TodoListViper.swiftmodule",
+          "detailStepType" : "other"
+        },
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_9",
+          "fetchedFromCache" : true,
+          "title" : "Copy TodoListViper.swiftsourceinfo (x86_64)",
+          "warningCount" : 0,
+          "duration" : 0.0017260313034057617,
+          "startTimestamp" : 1650457827.7020669,
+          "signature" : "PBXCp \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoListViper-dziamuczfxewkkgbehsrkdslknct\/Build\/Intermediates.noindex\/TodoListViper.build\/Debug-iphonesimulator\/TodoListViper.build\/Objects-normal\/x86_64\/TodoListViper.swiftsourceinfo \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoListViper-dziamuczfxewkkgbehsrkdslknct\/Build\/Products\/Debug-iphonesimulator\/TodoListViper.swiftmodule\/Project\/x86_64-apple-ios-simulator.swiftsourceinfo (in target 'TodoListViper' from project 'TodoListViper')",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650457827.703793,
+          "compilationDuration" : 0.0017260313034057617,
+          "endDate" : "2022-04-20T12:30:27.704000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_41",
+          "buildStatus" : "finished with errors",
+          "schema" : "TodoListViper",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650457827.703793,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E",
+          "startDate" : "2022-04-20T12:30:27.702000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "file:\/\/\/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoListViper-dziamuczfxewkkgbehsrkdslknct\/Build\/Intermediates.noindex\/TodoListViper.build\/Debug-iphonesimulator\/TodoListViper.build\/Objects-normal\/x86_64\/TodoListViper.swiftsourceinfo",
+          "detailStepType" : "other"
+        },
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_9",
+          "fetchedFromCache" : true,
+          "title" : "Copy TodoListViper.swiftmodule (x86_64)",
+          "warningCount" : 0,
+          "duration" : 0.0014300346374511719,
+          "startTimestamp" : 1650457827.7024159,
+          "signature" : "PBXCp \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoListViper-dziamuczfxewkkgbehsrkdslknct\/Build\/Intermediates.noindex\/TodoListViper.build\/Debug-iphonesimulator\/TodoListViper.build\/Objects-normal\/x86_64\/TodoListViper.swiftmodule \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoListViper-dziamuczfxewkkgbehsrkdslknct\/Build\/Products\/Debug-iphonesimulator\/TodoListViper.swiftmodule\/x86_64-apple-ios-simulator.swiftmodule (in target 'TodoListViper' from project 'TodoListViper')",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650457827.703846,
+          "compilationDuration" : 0.0014300346374511719,
+          "endDate" : "2022-04-20T12:30:27.704000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_42",
+          "buildStatus" : "finished with errors",
+          "schema" : "TodoListViper",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650457827.703846,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E",
+          "startDate" : "2022-04-20T12:30:27.702000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "file:\/\/\/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoListViper-dziamuczfxewkkgbehsrkdslknct\/Build\/Intermediates.noindex\/TodoListViper.build\/Debug-iphonesimulator\/TodoListViper.build\/Objects-normal\/x86_64\/TodoListViper.swiftmodule",
+          "detailStepType" : "other"
+        },
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_9",
+          "fetchedFromCache" : true,
+          "title" : "Copy TodoListViper.swiftdoc (x86_64)",
+          "warningCount" : 0,
+          "duration" : 0.0010540485382080078,
+          "startTimestamp" : 1650457827.702775,
+          "signature" : "PBXCp \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoListViper-dziamuczfxewkkgbehsrkdslknct\/Build\/Intermediates.noindex\/TodoListViper.build\/Debug-iphonesimulator\/TodoListViper.build\/Objects-normal\/x86_64\/TodoListViper.swiftdoc \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoListViper-dziamuczfxewkkgbehsrkdslknct\/Build\/Products\/Debug-iphonesimulator\/TodoListViper.swiftmodule\/x86_64-apple-ios-simulator.swiftdoc (in target 'TodoListViper' from project 'TodoListViper')",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650457827.7038291,
+          "compilationDuration" : 0.0010540485382080078,
+          "endDate" : "2022-04-20T12:30:27.704000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_43",
+          "buildStatus" : "finished with errors",
+          "schema" : "TodoListViper",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650457827.7038291,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E",
+          "startDate" : "2022-04-20T12:30:27.703000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "file:\/\/\/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoListViper-dziamuczfxewkkgbehsrkdslknct\/Build\/Intermediates.noindex\/TodoListViper.build\/Debug-iphonesimulator\/TodoListViper.build\/Objects-normal\/x86_64\/TodoListViper.swiftdoc",
+          "detailStepType" : "other"
+        },
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_9",
+          "fetchedFromCache" : true,
+          "title" : "Copy TodoListViper.swiftdoc (x86_64)",
+          "warningCount" : 0,
+          "duration" : 0.00076401233673095703,
+          "startTimestamp" : 1650457827.703099,
+          "signature" : "PBXCp \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoListViper-dziamuczfxewkkgbehsrkdslknct\/Build\/Intermediates.noindex\/TodoListViper.build\/Debug-iphonesimulator\/TodoListViper.build\/Objects-normal\/x86_64\/TodoListViper.swiftdoc \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoListViper-dziamuczfxewkkgbehsrkdslknct\/Build\/Products\/Debug-iphonesimulator\/TodoListViper.swiftmodule\/x86_64.swiftdoc (in target 'TodoListViper' from project 'TodoListViper')",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650457827.7038631,
+          "compilationDuration" : 0.00076401233673095703,
+          "endDate" : "2022-04-20T12:30:27.704000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_44",
+          "buildStatus" : "finished with errors",
+          "schema" : "TodoListViper",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650457827.7038631,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E",
+          "startDate" : "2022-04-20T12:30:27.703000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "file:\/\/\/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoListViper-dziamuczfxewkkgbehsrkdslknct\/Build\/Intermediates.noindex\/TodoListViper.build\/Debug-iphonesimulator\/TodoListViper.build\/Objects-normal\/x86_64\/TodoListViper.swiftdoc",
+          "detailStepType" : "other"
+        },
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_9",
+          "fetchedFromCache" : true,
+          "title" : "Copy TodoListViper-Swift.h (x86_64)",
+          "warningCount" : 0,
+          "duration" : 0.00060200691223144531,
+          "startTimestamp" : 1650457827.7034321,
+          "signature" : "PBXCp \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoListViper-dziamuczfxewkkgbehsrkdslknct\/Build\/Intermediates.noindex\/TodoListViper.build\/Debug-iphonesimulator\/TodoListViper.build\/Objects-normal\/x86_64\/TodoListViper-Swift.h \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoListViper-dziamuczfxewkkgbehsrkdslknct\/Build\/Intermediates.noindex\/TodoListViper.build\/Debug-iphonesimulator\/TodoListViper.build\/DerivedSources\/TodoListViper-Swift.h (in target 'TodoListViper' from project 'TodoListViper')",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650457827.7040339,
+          "compilationDuration" : 0.00060200691223144531,
+          "endDate" : "2022-04-20T12:30:27.704000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_45",
+          "buildStatus" : "finished with errors",
+          "schema" : "TodoListViper",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650457827.7040339,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E",
+          "startDate" : "2022-04-20T12:30:27.703000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "file:\/\/\/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoListViper-dziamuczfxewkkgbehsrkdslknct\/Build\/Intermediates.noindex\/TodoListViper.build\/Debug-iphonesimulator\/TodoListViper.build\/Objects-normal\/x86_64\/TodoListViper-Swift.h",
+          "detailStepType" : "other"
+        },
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_9",
+          "fetchedFromCache" : true,
+          "title" : "Link TodoListViper (x86_64)",
+          "warningCount" : 0,
+          "duration" : 0.22017407417297363,
+          "startTimestamp" : 1650457827.7046881,
+          "signature" : "Ld \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoListViper-dziamuczfxewkkgbehsrkdslknct\/Build\/Products\/Debug-iphonesimulator\/TodoListViper.app\/TodoListViper normal (in target 'TodoListViper' from project 'TodoListViper')",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650457827.9248619,
+          "compilationDuration" : 0.22017407417297363,
+          "endDate" : "2022-04-20T12:30:27.925000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_46",
+          "buildStatus" : "finished with errors",
+          "schema" : "TodoListViper",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650457827.9248619,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E",
+          "startDate" : "2022-04-20T12:30:27.705000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "",
+          "detailStepType" : "linker"
+        },
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_9",
+          "fetchedFromCache" : true,
+          "title" : "Compile asset catalogs",
+          "warningCount" : 0,
+          "duration" : 1.1920640468597412,
+          "startTimestamp" : 1650457827.926085,
+          "signature" : "CompileAssetCatalog \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoListViper-dziamuczfxewkkgbehsrkdslknct\/Build\/Products\/Debug-iphonesimulator\/TodoListViper.app \/Users\/daniilkravchuk\/Desktop\/Study\/VIPER\/TodoListViper\/Resources\/Assets.xcassets (in target 'TodoListViper' from project 'TodoListViper')",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650457829.118149,
+          "compilationDuration" : 1.1920640468597412,
+          "endDate" : "2022-04-20T12:30:29.118000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_47",
+          "buildStatus" : "finished with errors",
+          "schema" : "TodoListViper",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650457829.118149,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E",
+          "startDate" : "2022-04-20T12:30:27.926000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "",
+          "detailStepType" : "compileAssetsCatalog"
+        },
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_9",
+          "fetchedFromCache" : true,
+          "title" : "Compile Storyboard file Main.storyboard",
+          "warningCount" : 0,
+          "duration" : 15.580258011817932,
+          "startTimestamp" : 1650457827.9264898,
+          "signature" : "CompileStoryboard \/Users\/daniilkravchuk\/Desktop\/Study\/VIPER\/TodoListViper\/Resources\/Base.lproj\/Main.storyboard (in target 'TodoListViper' from project 'TodoListViper')",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650457843.506748,
+          "compilationDuration" : 15.580258011817932,
+          "endDate" : "2022-04-20T12:30:43.507000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_48",
+          "buildStatus" : "finished with errors",
+          "schema" : "TodoListViper",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650457843.506748,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E",
+          "startDate" : "2022-04-20T12:30:27.926000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "",
+          "detailStepType" : "compileStoryboard"
+        },
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_9",
+          "fetchedFromCache" : true,
+          "title" : "Compile Storyboard file LaunchScreen.storyboard",
+          "warningCount" : 0,
+          "duration" : 15.142812013626099,
+          "startTimestamp" : 1650457827.926806,
+          "signature" : "CompileStoryboard \/Users\/daniilkravchuk\/Desktop\/Study\/VIPER\/TodoListViper\/Resources\/Base.lproj\/LaunchScreen.storyboard (in target 'TodoListViper' from project 'TodoListViper')",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650457843.069618,
+          "compilationDuration" : 15.142812013626099,
+          "endDate" : "2022-04-20T12:30:43.070000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_49",
+          "buildStatus" : "finished with errors",
+          "schema" : "TodoListViper",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650457843.069618,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E",
+          "startDate" : "2022-04-20T12:30:27.927000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "",
+          "detailStepType" : "compileStoryboard"
+        },
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_9",
+          "fetchedFromCache" : true,
+          "title" : "Process Info.plist",
+          "warningCount" : 0,
+          "duration" : 0.0040649175643920898,
+          "startTimestamp" : 1650457843.5074439,
+          "signature" : "ProcessInfoPlistFile \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoListViper-dziamuczfxewkkgbehsrkdslknct\/Build\/Products\/Debug-iphonesimulator\/TodoListViper.app\/Info.plist \/Users\/daniilkravchuk\/Desktop\/Study\/VIPER\/TodoListViper\/Resources\/Info.plist (in target 'TodoListViper' from project 'TodoListViper')",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650457843.5115089,
+          "compilationDuration" : 0.0040649175643920898,
+          "endDate" : "2022-04-20T12:30:43.512000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_50",
+          "buildStatus" : "finished with errors",
+          "schema" : "TodoListViper",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650457843.5115089,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E",
+          "startDate" : "2022-04-20T12:30:43.507000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "",
+          "detailStepType" : "other"
+        },
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_9",
+          "fetchedFromCache" : true,
+          "title" : "Link Storyboards",
+          "warningCount" : 0,
+          "duration" : 0.020466923713684082,
+          "startTimestamp" : 1650457843.5079021,
+          "signature" : "LinkStoryboards (in target 'TodoListViper' from project 'TodoListViper')",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650457843.5283689,
+          "compilationDuration" : 0.020466923713684082,
+          "endDate" : "2022-04-20T12:30:43.528000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_51",
+          "buildStatus" : "finished with errors",
+          "schema" : "TodoListViper",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650457843.5283689,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E",
+          "startDate" : "2022-04-20T12:30:43.508000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "",
+          "detailStepType" : "linkStoryboards"
+        },
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_9",
+          "fetchedFromCache" : true,
+          "title" : "Copy Swift standard libraries into TodoListViper.app",
+          "warningCount" : 0,
+          "duration" : 0.096917033195495605,
+          "startTimestamp" : 1650457843.52896,
+          "signature" : "CopySwiftLibs \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoListViper-dziamuczfxewkkgbehsrkdslknct\/Build\/Products\/Debug-iphonesimulator\/TodoListViper.app (in target 'TodoListViper' from project 'TodoListViper')",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650457843.6258769,
+          "compilationDuration" : 0.096917033195495605,
+          "endDate" : "2022-04-20T12:30:43.626000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_52",
+          "buildStatus" : "finished with errors",
+          "schema" : "TodoListViper",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650457843.6258769,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E",
+          "startDate" : "2022-04-20T12:30:43.529000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "",
+          "detailStepType" : "copySwiftLibs"
+        },
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_9",
+          "fetchedFromCache" : true,
+          "title" : "Sign TodoListViper.app",
+          "warningCount" : 0,
+          "duration" : 0.036748051643371582,
+          "startTimestamp" : 1650457843.6263881,
+          "signature" : "CodeSign \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoListViper-dziamuczfxewkkgbehsrkdslknct\/Build\/Products\/Debug-iphonesimulator\/TodoListViper.app (in target 'TodoListViper' from project 'TodoListViper')",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650457843.663136,
+          "compilationDuration" : 0.036748051643371582,
+          "endDate" : "2022-04-20T12:30:43.663000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_53",
+          "buildStatus" : "finished with errors",
+          "schema" : "TodoListViper",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650457843.663136,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E",
+          "startDate" : "2022-04-20T12:30:43.626000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "",
+          "detailStepType" : "other"
+        },
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_9",
+          "fetchedFromCache" : true,
+          "title" : "Register execution policy exception for TodoListViper.app",
+          "warningCount" : 0,
+          "duration" : 0.0031239986419677734,
+          "startTimestamp" : 1650451823.882756,
+          "signature" : "RegisterExecutionPolicyException \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoListViper-dziamuczfxewkkgbehsrkdslknct\/Build\/Products\/Debug-iphonesimulator\/TodoListViper.app (in target 'TodoListViper' from project 'TodoListViper')",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650451823.88588,
+          "compilationDuration" : 0.0031239986419677734,
+          "endDate" : "2022-04-20T10:50:23.886000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_54",
+          "buildStatus" : "finished with errors",
+          "schema" : "TodoListViper",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650451823.88588,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E",
+          "startDate" : "2022-04-20T10:50:23.883000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "",
+          "detailStepType" : "other"
+        },
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_9",
+          "fetchedFromCache" : true,
+          "title" : "Touch TodoListViper.app",
+          "warningCount" : 0,
+          "duration" : 0.010612010955810547,
+          "startTimestamp" : 1650451823.8862119,
+          "signature" : "Touch \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoListViper-dziamuczfxewkkgbehsrkdslknct\/Build\/Products\/Debug-iphonesimulator\/TodoListViper.app (in target 'TodoListViper' from project 'TodoListViper')",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650451823.8968239,
+          "compilationDuration" : 0.010612010955810547,
+          "endDate" : "2022-04-20T10:50:23.897000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_55",
+          "buildStatus" : "finished with errors",
+          "schema" : "TodoListViper",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650451823.8968239,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E",
+          "startDate" : "2022-04-20T10:50:23.886000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "",
+          "detailStepType" : "other"
+        }
+      ],
+      "endTimestamp" : 1650457843.663399,
+      "architecture" : "",
+      "machineName" : "Даниил’s Mac mini",
+      "buildIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E",
+      "startDate" : "2022-04-20T12:30:27.435000Z",
+      "warnings" : [
+
+      ],
+      "notes" : [
+
+      ],
+      "documentURL" : "",
+      "detailStepType" : "none"
+    },
+    {
+      "parentIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_1",
+      "fetchedFromCache" : false,
+      "title" : "Run post-actions",
+      "warningCount" : 0,
+      "duration" : 0.19300997257232666,
+      "startTimestamp" : 1650457884.290607,
+      "signature" : "Run post-actions",
+      "errors" : [
+
+      ],
+      "compilationEndTimestamp" : 1650457884.290607,
+      "compilationDuration" : 0,
+      "endDate" : "2022-04-20T12:31:24.484000Z",
+      "errorCount" : 0,
+      "domain" : "com.apple.dt.IDE.BuildLogSchemeAction",
+      "type" : "target",
+      "identifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_56",
+      "buildStatus" : "finished with errors",
+      "schema" : "TodoListViper",
+      "subSteps" : [
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_56",
+          "fetchedFromCache" : false,
+          "title" : "Run custom shell script 'Run Script'",
+          "warningCount" : 0,
+          "duration" : 0.029286026954650879,
+          "startTimestamp" : 1650457884.4542451,
+          "signature" : "Run custom shell script 'Run Script'",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650457884.483531,
+          "compilationDuration" : 0.029286026954650879,
+          "endDate" : "2022-04-20T12:31:24.484000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.LogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E_57",
+          "buildStatus" : "finished with errors",
+          "schema" : "TodoListViper",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650457884.483531,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E",
+          "startDate" : "2022-04-20T12:31:24.454000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+            {
+              "characterRangeStart" : 0,
+              "startingColumnNumber" : 0,
+              "endingColumnNumber" : 0,
+              "characterRangeEnd" : 0,
+              "detail" : "\/var\/folders\/y9\/92fssh6s2jq713gk7nzhrs2m0000gn\/T\/SchemeScriptAction-ujQiev.sh: line 2: xclogparser: command not found",
+              "title" : "Exited with status code 127",
+              "endingLineNumber" : 0,
+              "type" : "note",
+              "documentURL" : "",
+              "startingLineNumber" : 0,
+              "severity" : 2
+            }
+          ],
+          "documentURL" : "",
+          "detailStepType" : "other"
+        }
+      ],
+      "endTimestamp" : 1650457884.4836168,
+      "architecture" : "",
+      "machineName" : "Даниил’s Mac mini",
+      "buildIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E",
+      "startDate" : "2022-04-20T12:31:24.291000Z",
+      "warnings" : [
+
+      ],
+      "notes" : [
+
+      ],
+      "documentURL" : "",
+      "detailStepType" : "none"
+    }
+  ],
+  "endTimestamp" : 1650457884.483706,
+  "architecture" : "",
+  "machineName" : "Даниил’s Mac mini",
+  "buildIdentifier" : "Даниил’s Mac mini_FFC5D989-BB58-4391-BDF3-DEEE3646F10E",
+  "startDate" : "2022-04-20T12:31:24.290000Z",
+  "warnings" : [
+
+  ],
+  "notes" : [
+
+  ],
+  "documentURL" : "",
+  "detailStepType" : "none"
+}

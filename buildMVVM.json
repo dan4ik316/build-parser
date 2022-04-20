@@ -1,0 +1,1995 @@
+{
+  "parentIdentifier" : "",
+  "fetchedFromCache" : false,
+  "title" : "Build TodoList",
+  "warningCount" : 1,
+  "duration" : 4.7505919933319092,
+  "startTimestamp" : 1650482046.878155,
+  "signature" : "Build TodoList",
+  "errors" : [
+
+  ],
+  "compilationEndTimestamp" : 1650482051.464551,
+  "compilationDuration" : 4.5863959789276123,
+  "endDate" : "2022-04-20T19:14:11.629000Z",
+  "errorCount" : 0,
+  "domain" : "Xcode.IDEActivityLogDomainType.BuildLog",
+  "type" : "main",
+  "identifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_1",
+  "buildStatus" : "succeeded",
+  "schema" : "TodoList",
+  "subSteps" : [
+    {
+      "parentIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_1",
+      "fetchedFromCache" : false,
+      "title" : "Prepare build",
+      "warningCount" : 0,
+      "duration" : 4.7299579381942749,
+      "startTimestamp" : 1650482046.8920889,
+      "signature" : "Prepare build",
+      "errors" : [
+
+      ],
+      "compilationEndTimestamp" : 1650482046.8920889,
+      "compilationDuration" : 0,
+      "endDate" : "2022-04-20T19:14:11.622000Z",
+      "errorCount" : 0,
+      "domain" : "Xcode.IDEActivityLogDomainType.XCBuild.Preparation",
+      "type" : "target",
+      "identifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_2",
+      "buildStatus" : "succeeded",
+      "schema" : "TodoList",
+      "subSteps" : [
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_2",
+          "fetchedFromCache" : false,
+          "title" : "Analyze workspace",
+          "warningCount" : 0,
+          "duration" : 0.00057399272918701172,
+          "startTimestamp" : 1650482046.922349,
+          "signature" : "",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650482046.9229231,
+          "compilationDuration" : 0.00057399272918701172,
+          "endDate" : "2022-04-20T19:14:06.923000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_3",
+          "buildStatus" : "succeeded",
+          "schema" : "TodoList",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650482046.9229231,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B",
+          "startDate" : "2022-04-20T19:14:06.922000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "",
+          "detailStepType" : "other"
+        },
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_2",
+          "fetchedFromCache" : false,
+          "title" : "Create build description",
+          "warningCount" : 0,
+          "duration" : 0.052501082420349121,
+          "startTimestamp" : 1650482046.922941,
+          "signature" : "",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650482046.9754419,
+          "compilationDuration" : 0.052501082420349121,
+          "endDate" : "2022-04-20T19:14:06.975000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_4",
+          "buildStatus" : "succeeded",
+          "schema" : "TodoList",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650482046.9754419,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B",
+          "startDate" : "2022-04-20T19:14:06.923000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "",
+          "detailStepType" : "other"
+        },
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_2",
+          "fetchedFromCache" : false,
+          "title" : "CreateBuildDirectory \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoList-hgefwxjuormbfdctrfkmgclbkfsv\/Index\/Build\/Intermediates.noindex",
+          "warningCount" : 0,
+          "duration" : 0.00061190128326416016,
+          "startTimestamp" : 1650482046.9908919,
+          "signature" : "CreateBuildDirectory \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoList-hgefwxjuormbfdctrfkmgclbkfsv\/Index\/Build\/Intermediates.noindex",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650482046.991504,
+          "compilationDuration" : 0.00061190128326416016,
+          "endDate" : "2022-04-20T19:14:06.992000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_5",
+          "buildStatus" : "succeeded",
+          "schema" : "TodoList",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650482046.991504,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B",
+          "startDate" : "2022-04-20T19:14:06.991000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "",
+          "detailStepType" : "other"
+        },
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_2",
+          "fetchedFromCache" : false,
+          "title" : "CreateBuildDirectory \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoList-hgefwxjuormbfdctrfkmgclbkfsv\/Build\/Intermediates.noindex",
+          "warningCount" : 0,
+          "duration" : 0.00040495395660400391,
+          "startTimestamp" : 1650482046.9911251,
+          "signature" : "CreateBuildDirectory \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoList-hgefwxjuormbfdctrfkmgclbkfsv\/Build\/Intermediates.noindex",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650482046.9915299,
+          "compilationDuration" : 0.00040495395660400391,
+          "endDate" : "2022-04-20T19:14:06.992000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_6",
+          "buildStatus" : "succeeded",
+          "schema" : "TodoList",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650482046.9915299,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B",
+          "startDate" : "2022-04-20T19:14:06.991000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "",
+          "detailStepType" : "other"
+        },
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_2",
+          "fetchedFromCache" : false,
+          "title" : "CreateBuildDirectory \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoList-hgefwxjuormbfdctrfkmgclbkfsv\/Index\/Build\/Products",
+          "warningCount" : 0,
+          "duration" : 0.00048208236694335938,
+          "startTimestamp" : 1650482046.991293,
+          "signature" : "CreateBuildDirectory \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoList-hgefwxjuormbfdctrfkmgclbkfsv\/Index\/Build\/Products",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650482046.991775,
+          "compilationDuration" : 0.00048208236694335938,
+          "endDate" : "2022-04-20T19:14:06.992000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_7",
+          "buildStatus" : "succeeded",
+          "schema" : "TodoList",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650482046.991775,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B",
+          "startDate" : "2022-04-20T19:14:06.991000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "",
+          "detailStepType" : "other"
+        },
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_2",
+          "fetchedFromCache" : false,
+          "title" : "CreateBuildDirectory \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoList-hgefwxjuormbfdctrfkmgclbkfsv\/Build\/Products",
+          "warningCount" : 0,
+          "duration" : 0.0002880096435546875,
+          "startTimestamp" : 1650482046.9916439,
+          "signature" : "CreateBuildDirectory \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoList-hgefwxjuormbfdctrfkmgclbkfsv\/Build\/Products",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650482046.9919319,
+          "compilationDuration" : 0.0002880096435546875,
+          "endDate" : "2022-04-20T19:14:06.992000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_8",
+          "buildStatus" : "succeeded",
+          "schema" : "TodoList",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650482046.9919319,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B",
+          "startDate" : "2022-04-20T19:14:06.992000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "",
+          "detailStepType" : "other"
+        },
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_2",
+          "fetchedFromCache" : false,
+          "title" : "CreateBuildDirectory \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoList-hgefwxjuormbfdctrfkmgclbkfsv\/Index\/Build\/Products\/Debug-iphonesimulator",
+          "warningCount" : 0,
+          "duration" : 0.00034093856811523438,
+          "startTimestamp" : 1650482046.9921999,
+          "signature" : "CreateBuildDirectory \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoList-hgefwxjuormbfdctrfkmgclbkfsv\/Index\/Build\/Products\/Debug-iphonesimulator",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650482046.9925408,
+          "compilationDuration" : 0.00034093856811523438,
+          "endDate" : "2022-04-20T19:14:06.993000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_9",
+          "buildStatus" : "succeeded",
+          "schema" : "TodoList",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650482046.9925408,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B",
+          "startDate" : "2022-04-20T19:14:06.992000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "",
+          "detailStepType" : "other"
+        },
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_2",
+          "fetchedFromCache" : false,
+          "title" : "CreateBuildDirectory \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoList-hgefwxjuormbfdctrfkmgclbkfsv\/Index\/Build\/Products\/Debug-iphoneos",
+          "warningCount" : 0,
+          "duration" : 0.00045299530029296875,
+          "startTimestamp" : 1650482046.992363,
+          "signature" : "CreateBuildDirectory \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoList-hgefwxjuormbfdctrfkmgclbkfsv\/Index\/Build\/Products\/Debug-iphoneos",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650482046.992816,
+          "compilationDuration" : 0.00045299530029296875,
+          "endDate" : "2022-04-20T19:14:06.993000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_10",
+          "buildStatus" : "succeeded",
+          "schema" : "TodoList",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650482046.992816,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B",
+          "startDate" : "2022-04-20T19:14:06.992000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "",
+          "detailStepType" : "other"
+        },
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_2",
+          "fetchedFromCache" : false,
+          "title" : "CreateBuildDirectory \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoList-hgefwxjuormbfdctrfkmgclbkfsv\/Build\/Products\/Debug-iphonesimulator",
+          "warningCount" : 0,
+          "duration" : 0.00021505355834960938,
+          "startTimestamp" : 1650482046.9926491,
+          "signature" : "CreateBuildDirectory \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoList-hgefwxjuormbfdctrfkmgclbkfsv\/Build\/Products\/Debug-iphonesimulator",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650482046.9928641,
+          "compilationDuration" : 0.00021505355834960938,
+          "endDate" : "2022-04-20T19:14:06.993000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_11",
+          "buildStatus" : "succeeded",
+          "schema" : "TodoList",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650482046.9928641,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B",
+          "startDate" : "2022-04-20T19:14:06.993000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "",
+          "detailStepType" : "other"
+        }
+      ],
+      "endTimestamp" : 1650482051.6220469,
+      "architecture" : "",
+      "machineName" : "Даниил’s Mac mini",
+      "buildIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B",
+      "startDate" : "2022-04-20T19:14:06.892000Z",
+      "warnings" : [
+
+      ],
+      "notes" : [
+        {
+          "characterRangeStart" : 0,
+          "startingColumnNumber" : 0,
+          "endingColumnNumber" : 0,
+          "characterRangeEnd" : 0,
+          "detail" : "note: Using new build system\rnote: Planning\rnote: Build preparation complete\rnote: Building targets in dependency order",
+          "title" : "Using new build system",
+          "endingLineNumber" : 0,
+          "type" : "note",
+          "documentURL" : "",
+          "startingLineNumber" : 0,
+          "severity" : 0
+        },
+        {
+          "characterRangeStart" : 0,
+          "startingColumnNumber" : 0,
+          "endingColumnNumber" : 0,
+          "characterRangeEnd" : 0,
+          "detail" : "note: Using new build system\rnote: Planning\rnote: Build preparation complete\rnote: Building targets in dependency order",
+          "title" : "Planning",
+          "endingLineNumber" : 0,
+          "type" : "note",
+          "documentURL" : "",
+          "startingLineNumber" : 0,
+          "severity" : 0
+        },
+        {
+          "characterRangeStart" : 0,
+          "startingColumnNumber" : 0,
+          "endingColumnNumber" : 0,
+          "characterRangeEnd" : 0,
+          "detail" : "note: Using new build system\rnote: Planning\rnote: Build preparation complete\rnote: Building targets in dependency order",
+          "title" : "Build preparation complete",
+          "endingLineNumber" : 0,
+          "type" : "note",
+          "documentURL" : "",
+          "startingLineNumber" : 0,
+          "severity" : 0
+        },
+        {
+          "characterRangeStart" : 0,
+          "startingColumnNumber" : 0,
+          "endingColumnNumber" : 0,
+          "characterRangeEnd" : 0,
+          "detail" : "note: Using new build system\rnote: Planning\rnote: Build preparation complete\rnote: Building targets in dependency order",
+          "title" : "Building targets in dependency order",
+          "endingLineNumber" : 0,
+          "type" : "note",
+          "documentURL" : "",
+          "startingLineNumber" : 0,
+          "severity" : 0
+        }
+      ],
+      "documentURL" : "",
+      "detailStepType" : "none"
+    },
+    {
+      "parentIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_1",
+      "fetchedFromCache" : false,
+      "title" : "Build target TodoList",
+      "warningCount" : 1,
+      "duration" : 4.6271920204162598,
+      "startTimestamp" : 1650482046.9935279,
+      "signature" : "TodoList-hgefwxjuormbfdctrfkmgclbkfsv",
+      "errors" : [
+
+      ],
+      "compilationEndTimestamp" : 1650482051.464551,
+      "compilationDuration" : 4.4710230827331543,
+      "endDate" : "2022-04-20T19:14:11.621000Z",
+      "errorCount" : 0,
+      "domain" : "Xcode.IDEActivityLogDomainType.target.product-type.application",
+      "type" : "target",
+      "identifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_12",
+      "buildStatus" : "succeeded",
+      "schema" : "TodoList",
+      "subSteps" : [
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_12",
+          "fetchedFromCache" : false,
+          "title" : "Create directory TodoList.app",
+          "warningCount" : 0,
+          "duration" : 4.8041343688964844e-05,
+          "startTimestamp" : 1650482046.993644,
+          "signature" : "MkDir \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoList-hgefwxjuormbfdctrfkmgclbkfsv\/Build\/Products\/Debug-iphonesimulator\/TodoList.app (in target 'TodoList' from project 'TodoList')",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650482046.9936919,
+          "compilationDuration" : 4.8041343688964844e-05,
+          "endDate" : "2022-04-20T19:14:06.994000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_13",
+          "buildStatus" : "succeeded",
+          "schema" : "TodoList",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650482046.9936919,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B",
+          "startDate" : "2022-04-20T19:14:06.994000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "",
+          "detailStepType" : "other"
+        },
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_12",
+          "fetchedFromCache" : false,
+          "title" : "Write Entitlements.plist",
+          "warningCount" : 0,
+          "duration" : 0.00039803981781005859,
+          "startTimestamp" : 1650482046.9940481,
+          "signature" : "WriteAuxiliaryFile \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoList-hgefwxjuormbfdctrfkmgclbkfsv\/Build\/Intermediates.noindex\/TodoList.build\/Debug-iphonesimulator\/TodoList.build\/DerivedSources\/Entitlements.plist (in target 'TodoList' from project 'TodoList')",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650482046.994446,
+          "compilationDuration" : 0.00039803981781005859,
+          "endDate" : "2022-04-20T19:14:06.994000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_14",
+          "buildStatus" : "succeeded",
+          "schema" : "TodoList",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650482046.994446,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B",
+          "startDate" : "2022-04-20T19:14:06.994000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "",
+          "detailStepType" : "writeAuxiliaryFile"
+        },
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_12",
+          "fetchedFromCache" : false,
+          "title" : "Write Entitlements-Simulated.plist",
+          "warningCount" : 0,
+          "duration" : 0.00023794174194335938,
+          "startTimestamp" : 1650482046.994297,
+          "signature" : "WriteAuxiliaryFile \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoList-hgefwxjuormbfdctrfkmgclbkfsv\/Build\/Intermediates.noindex\/TodoList.build\/Debug-iphonesimulator\/TodoList.build\/DerivedSources\/Entitlements-Simulated.plist (in target 'TodoList' from project 'TodoList')",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650482046.994535,
+          "compilationDuration" : 0.00023794174194335938,
+          "endDate" : "2022-04-20T19:14:06.995000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_15",
+          "buildStatus" : "succeeded",
+          "schema" : "TodoList",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650482046.994535,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B",
+          "startDate" : "2022-04-20T19:14:06.994000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "",
+          "detailStepType" : "writeAuxiliaryFile"
+        },
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_12",
+          "fetchedFromCache" : false,
+          "title" : "Process product packaging",
+          "warningCount" : 0,
+          "duration" : 0.00048601627349853516,
+          "startTimestamp" : 1650482046.994674,
+          "signature" : "ProcessProductPackaging \"\" \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoList-hgefwxjuormbfdctrfkmgclbkfsv\/Build\/Intermediates.noindex\/TodoList.build\/Debug-iphonesimulator\/TodoList.build\/TodoList.app.xcent (in target 'TodoList' from project 'TodoList')",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650482046.9951601,
+          "compilationDuration" : 0.00048601627349853516,
+          "endDate" : "2022-04-20T19:14:06.995000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_16",
+          "buildStatus" : "succeeded",
+          "schema" : "TodoList",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650482046.9951601,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B",
+          "startDate" : "2022-04-20T19:14:06.995000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "",
+          "detailStepType" : "other"
+        },
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_12",
+          "fetchedFromCache" : false,
+          "title" : "Process product packaging",
+          "warningCount" : 0,
+          "duration" : 0.00032806396484375,
+          "startTimestamp" : 1650482046.9949489,
+          "signature" : "ProcessProductPackaging \"\" \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoList-hgefwxjuormbfdctrfkmgclbkfsv\/Build\/Intermediates.noindex\/TodoList.build\/Debug-iphonesimulator\/TodoList.build\/TodoList.app-Simulated.xcent (in target 'TodoList' from project 'TodoList')",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650482046.9952769,
+          "compilationDuration" : 0.00032806396484375,
+          "endDate" : "2022-04-20T19:14:06.995000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_17",
+          "buildStatus" : "succeeded",
+          "schema" : "TodoList",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650482046.9952769,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B",
+          "startDate" : "2022-04-20T19:14:06.995000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "",
+          "detailStepType" : "other"
+        },
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_12",
+          "fetchedFromCache" : false,
+          "title" : "Write all-product-headers.yaml",
+          "warningCount" : 0,
+          "duration" : 0.0013369321823120117,
+          "startTimestamp" : 1650482046.9955602,
+          "signature" : "WriteAuxiliaryFile \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoList-hgefwxjuormbfdctrfkmgclbkfsv\/Build\/Intermediates.noindex\/TodoList.build\/Debug-iphonesimulator\/TodoList.build\/all-product-headers.yaml (in target 'TodoList' from project 'TodoList')",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650482046.996897,
+          "compilationDuration" : 0.0013369321823120117,
+          "endDate" : "2022-04-20T19:14:06.997000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_18",
+          "buildStatus" : "succeeded",
+          "schema" : "TodoList",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650482046.996897,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B",
+          "startDate" : "2022-04-20T19:14:06.996000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "",
+          "detailStepType" : "writeAuxiliaryFile"
+        },
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_12",
+          "fetchedFromCache" : false,
+          "title" : "Write TodoList.hmap",
+          "warningCount" : 0,
+          "duration" : 0.0013899803161621094,
+          "startTimestamp" : 1650482046.9957871,
+          "signature" : "WriteAuxiliaryFile \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoList-hgefwxjuormbfdctrfkmgclbkfsv\/Build\/Intermediates.noindex\/TodoList.build\/Debug-iphonesimulator\/TodoList.build\/TodoList.hmap (in target 'TodoList' from project 'TodoList')",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650482046.9971771,
+          "compilationDuration" : 0.0013899803161621094,
+          "endDate" : "2022-04-20T19:14:06.997000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_19",
+          "buildStatus" : "succeeded",
+          "schema" : "TodoList",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650482046.9971771,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B",
+          "startDate" : "2022-04-20T19:14:06.996000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "",
+          "detailStepType" : "writeAuxiliaryFile"
+        },
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_12",
+          "fetchedFromCache" : false,
+          "title" : "Write TodoList-project-headers.hmap",
+          "warningCount" : 0,
+          "duration" : 0.0011780261993408203,
+          "startTimestamp" : 1650482046.996047,
+          "signature" : "WriteAuxiliaryFile \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoList-hgefwxjuormbfdctrfkmgclbkfsv\/Build\/Intermediates.noindex\/TodoList.build\/Debug-iphonesimulator\/TodoList.build\/TodoList-project-headers.hmap (in target 'TodoList' from project 'TodoList')",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650482046.997225,
+          "compilationDuration" : 0.0011780261993408203,
+          "endDate" : "2022-04-20T19:14:06.997000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_20",
+          "buildStatus" : "succeeded",
+          "schema" : "TodoList",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650482046.997225,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B",
+          "startDate" : "2022-04-20T19:14:06.996000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "",
+          "detailStepType" : "writeAuxiliaryFile"
+        },
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_12",
+          "fetchedFromCache" : false,
+          "title" : "Write TodoList-own-target-headers.hmap",
+          "warningCount" : 0,
+          "duration" : 0.00095999240875244141,
+          "startTimestamp" : 1650482046.9962821,
+          "signature" : "WriteAuxiliaryFile \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoList-hgefwxjuormbfdctrfkmgclbkfsv\/Build\/Intermediates.noindex\/TodoList.build\/Debug-iphonesimulator\/TodoList.build\/TodoList-own-target-headers.hmap (in target 'TodoList' from project 'TodoList')",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650482046.997242,
+          "compilationDuration" : 0.00095999240875244141,
+          "endDate" : "2022-04-20T19:14:06.997000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_21",
+          "buildStatus" : "succeeded",
+          "schema" : "TodoList",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650482046.997242,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B",
+          "startDate" : "2022-04-20T19:14:06.996000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "",
+          "detailStepType" : "writeAuxiliaryFile"
+        },
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_12",
+          "fetchedFromCache" : false,
+          "title" : "Write TodoList-generated-files.hmap",
+          "warningCount" : 0,
+          "duration" : 0.00074100494384765625,
+          "startTimestamp" : 1650482046.996516,
+          "signature" : "WriteAuxiliaryFile \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoList-hgefwxjuormbfdctrfkmgclbkfsv\/Build\/Intermediates.noindex\/TodoList.build\/Debug-iphonesimulator\/TodoList.build\/TodoList-generated-files.hmap (in target 'TodoList' from project 'TodoList')",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650482046.997257,
+          "compilationDuration" : 0.00074100494384765625,
+          "endDate" : "2022-04-20T19:14:06.997000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_22",
+          "buildStatus" : "succeeded",
+          "schema" : "TodoList",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650482046.997257,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B",
+          "startDate" : "2022-04-20T19:14:06.997000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "",
+          "detailStepType" : "writeAuxiliaryFile"
+        },
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_12",
+          "fetchedFromCache" : false,
+          "title" : "Write TodoList-all-target-headers.hmap",
+          "warningCount" : 0,
+          "duration" : 0.00058698654174804688,
+          "startTimestamp" : 1650482046.9967251,
+          "signature" : "WriteAuxiliaryFile \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoList-hgefwxjuormbfdctrfkmgclbkfsv\/Build\/Intermediates.noindex\/TodoList.build\/Debug-iphonesimulator\/TodoList.build\/TodoList-all-target-headers.hmap (in target 'TodoList' from project 'TodoList')",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650482046.9973121,
+          "compilationDuration" : 0.00058698654174804688,
+          "endDate" : "2022-04-20T19:14:06.997000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_23",
+          "buildStatus" : "succeeded",
+          "schema" : "TodoList",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650482046.9973121,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B",
+          "startDate" : "2022-04-20T19:14:06.997000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "",
+          "detailStepType" : "writeAuxiliaryFile"
+        },
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_12",
+          "fetchedFromCache" : false,
+          "title" : "Write TodoList-all-non-framework-target-headers.hmap",
+          "warningCount" : 0,
+          "duration" : 0.0003299713134765625,
+          "startTimestamp" : 1650482046.997036,
+          "signature" : "WriteAuxiliaryFile \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoList-hgefwxjuormbfdctrfkmgclbkfsv\/Build\/Intermediates.noindex\/TodoList.build\/Debug-iphonesimulator\/TodoList.build\/TodoList-all-non-framework-target-headers.hmap (in target 'TodoList' from project 'TodoList')",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650482046.997366,
+          "compilationDuration" : 0.0003299713134765625,
+          "endDate" : "2022-04-20T19:14:06.997000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_24",
+          "buildStatus" : "succeeded",
+          "schema" : "TodoList",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650482046.997366,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B",
+          "startDate" : "2022-04-20T19:14:06.997000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "",
+          "detailStepType" : "writeAuxiliaryFile"
+        },
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_12",
+          "fetchedFromCache" : false,
+          "title" : "Write TodoList.LinkFileList (x86_64)",
+          "warningCount" : 0,
+          "duration" : 0.00068199634552001953,
+          "startTimestamp" : 1650482046.998018,
+          "signature" : "WriteAuxiliaryFile \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoList-hgefwxjuormbfdctrfkmgclbkfsv\/Build\/Intermediates.noindex\/TodoList.build\/Debug-iphonesimulator\/TodoList.build\/Objects-normal\/x86_64\/TodoList.LinkFileList (in target 'TodoList' from project 'TodoList')",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650482046.9987001,
+          "compilationDuration" : 0.00068199634552001953,
+          "endDate" : "2022-04-20T19:14:06.999000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_25",
+          "buildStatus" : "succeeded",
+          "schema" : "TodoList",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650482046.9987001,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B",
+          "startDate" : "2022-04-20T19:14:06.998000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "",
+          "detailStepType" : "writeAuxiliaryFile"
+        },
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_12",
+          "fetchedFromCache" : false,
+          "title" : "Write TodoList.SwiftFileList (x86_64)",
+          "warningCount" : 0,
+          "duration" : 0.00048506259918212891,
+          "startTimestamp" : 1650482046.9982359,
+          "signature" : "WriteAuxiliaryFile \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoList-hgefwxjuormbfdctrfkmgclbkfsv\/Build\/Intermediates.noindex\/TodoList.build\/Debug-iphonesimulator\/TodoList.build\/Objects-normal\/x86_64\/TodoList.SwiftFileList (in target 'TodoList' from project 'TodoList')",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650482046.9987211,
+          "compilationDuration" : 0.00048506259918212891,
+          "endDate" : "2022-04-20T19:14:06.999000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_26",
+          "buildStatus" : "succeeded",
+          "schema" : "TodoList",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650482046.9987211,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B",
+          "startDate" : "2022-04-20T19:14:06.998000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "",
+          "detailStepType" : "writeAuxiliaryFile"
+        },
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_12",
+          "fetchedFromCache" : false,
+          "title" : "Write TodoList-OutputFileMap.json (x86_64)",
+          "warningCount" : 0,
+          "duration" : 0.00029194355010986328,
+          "startTimestamp" : 1650482046.998445,
+          "signature" : "WriteAuxiliaryFile \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoList-hgefwxjuormbfdctrfkmgclbkfsv\/Build\/Intermediates.noindex\/TodoList.build\/Debug-iphonesimulator\/TodoList.build\/Objects-normal\/x86_64\/TodoList-OutputFileMap.json (in target 'TodoList' from project 'TodoList')",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650482046.9987369,
+          "compilationDuration" : 0.00029194355010986328,
+          "endDate" : "2022-04-20T19:14:06.999000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_27",
+          "buildStatus" : "succeeded",
+          "schema" : "TodoList",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650482046.9987369,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B",
+          "startDate" : "2022-04-20T19:14:06.998000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "",
+          "detailStepType" : "writeAuxiliaryFile"
+        },
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_12",
+          "fetchedFromCache" : false,
+          "title" : "Compile Swift source files (x86_64)",
+          "warningCount" : 0,
+          "duration" : 3.4343039989471436,
+          "startTimestamp" : 1650482046.9999461,
+          "signature" : "CompileSwiftSources normal x86_64 com.apple.xcode.tools.swift.compiler (in target 'TodoList' from project 'TodoList')",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650482050.4342499,
+          "compilationDuration" : 3.4343039989471436,
+          "endDate" : "2022-04-20T19:14:10.434000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_28",
+          "buildStatus" : "succeeded",
+          "schema" : "TodoList",
+          "subSteps" : [
+            {
+              "parentIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_28",
+              "fetchedFromCache" : false,
+              "title" : "Compile ListRowView.swift (x86_64)",
+              "warningCount" : 0,
+              "duration" : 2.8934800624847412,
+              "startTimestamp" : 1650482047.262512,
+              "signature" : "CompileSwift normal x86_64 \/Users\/daniilkravchuk\/Desktop\/Study\/MVVM\/TodoList\/Views\/ListRowView.swift (in target 'TodoList' from project 'TodoList')",
+              "errors" : [
+
+              ],
+              "compilationEndTimestamp" : 1650482050.155992,
+              "compilationDuration" : 2.8934800624847412,
+              "endDate" : "2022-04-20T19:14:10.156000Z",
+              "errorCount" : 0,
+              "domain" : "com.apple.dt.IDE.BuildLogSection",
+              "type" : "detail",
+              "identifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_29",
+              "buildStatus" : "succeeded",
+              "schema" : "TodoList",
+              "subSteps" : [
+
+              ],
+              "endTimestamp" : 1650482050.155992,
+              "architecture" : "x86_64",
+              "machineName" : "Даниил’s Mac mini",
+              "buildIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B",
+              "startDate" : "2022-04-20T19:14:07.263000Z",
+              "warnings" : [
+
+              ],
+              "notes" : [
+
+              ],
+              "documentURL" : "file:\/\/\/Users\/daniilkravchuk\/Desktop\/Study\/MVVM\/TodoList\/Views\/ListRowView.swift",
+              "detailStepType" : "swiftCompilation"
+            },
+            {
+              "parentIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_28",
+              "fetchedFromCache" : false,
+              "title" : "Compile ListViewModel.swift (x86_64)",
+              "warningCount" : 0,
+              "duration" : 3.0211479663848877,
+              "startTimestamp" : 1650482047.2670999,
+              "signature" : "CompileSwift normal x86_64 \/Users\/daniilkravchuk\/Desktop\/Study\/MVVM\/TodoList\/ViewModels\/ListViewModel.swift (in target 'TodoList' from project 'TodoList')",
+              "errors" : [
+
+              ],
+              "compilationEndTimestamp" : 1650482050.2882481,
+              "compilationDuration" : 3.0211479663848877,
+              "endDate" : "2022-04-20T19:14:10.288000Z",
+              "errorCount" : 0,
+              "domain" : "com.apple.dt.IDE.BuildLogSection",
+              "type" : "detail",
+              "identifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_30",
+              "buildStatus" : "succeeded",
+              "schema" : "TodoList",
+              "subSteps" : [
+
+              ],
+              "endTimestamp" : 1650482050.2882481,
+              "architecture" : "x86_64",
+              "machineName" : "Даниил’s Mac mini",
+              "buildIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B",
+              "startDate" : "2022-04-20T19:14:07.267000Z",
+              "warnings" : [
+
+              ],
+              "notes" : [
+
+              ],
+              "documentURL" : "file:\/\/\/Users\/daniilkravchuk\/Desktop\/Study\/MVVM\/TodoList\/ViewModels\/ListViewModel.swift",
+              "detailStepType" : "swiftCompilation"
+            },
+            {
+              "parentIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_28",
+              "fetchedFromCache" : false,
+              "title" : "Compile TodoListApp.swift (x86_64)",
+              "warningCount" : 0,
+              "duration" : 3.0211390256881714,
+              "startTimestamp" : 1650482047.267354,
+              "signature" : "CompileSwift normal x86_64 \/Users\/daniilkravchuk\/Desktop\/Study\/MVVM\/TodoList\/TodoListApp.swift (in target 'TodoList' from project 'TodoList')",
+              "errors" : [
+
+              ],
+              "compilationEndTimestamp" : 1650482050.2884932,
+              "compilationDuration" : 3.0211390256881714,
+              "endDate" : "2022-04-20T19:14:10.288000Z",
+              "errorCount" : 0,
+              "domain" : "com.apple.dt.IDE.BuildLogSection",
+              "type" : "detail",
+              "identifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_31",
+              "buildStatus" : "succeeded",
+              "schema" : "TodoList",
+              "subSteps" : [
+
+              ],
+              "endTimestamp" : 1650482050.2884932,
+              "architecture" : "x86_64",
+              "machineName" : "Даниил’s Mac mini",
+              "buildIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B",
+              "startDate" : "2022-04-20T19:14:07.267000Z",
+              "warnings" : [
+
+              ],
+              "notes" : [
+
+              ],
+              "documentURL" : "file:\/\/\/Users\/daniilkravchuk\/Desktop\/Study\/MVVM\/TodoList\/TodoListApp.swift",
+              "detailStepType" : "swiftCompilation"
+            },
+            {
+              "parentIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_28",
+              "fetchedFromCache" : false,
+              "title" : "Compile ItemModel.swift (x86_64)",
+              "warningCount" : 0,
+              "duration" : 2.9966990947723389,
+              "startTimestamp" : 1650482047.2704999,
+              "signature" : "CompileSwift normal x86_64 \/Users\/daniilkravchuk\/Desktop\/Study\/MVVM\/TodoList\/Models\/ItemModel.swift (in target 'TodoList' from project 'TodoList')",
+              "errors" : [
+
+              ],
+              "compilationEndTimestamp" : 1650482050.267199,
+              "compilationDuration" : 2.9966990947723389,
+              "endDate" : "2022-04-20T19:14:10.267000Z",
+              "errorCount" : 0,
+              "domain" : "com.apple.dt.IDE.BuildLogSection",
+              "type" : "detail",
+              "identifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_32",
+              "buildStatus" : "succeeded",
+              "schema" : "TodoList",
+              "subSteps" : [
+
+              ],
+              "endTimestamp" : 1650482050.267199,
+              "architecture" : "x86_64",
+              "machineName" : "Даниил’s Mac mini",
+              "buildIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B",
+              "startDate" : "2022-04-20T19:14:07.271000Z",
+              "warnings" : [
+
+              ],
+              "notes" : [
+
+              ],
+              "documentURL" : "file:\/\/\/Users\/daniilkravchuk\/Desktop\/Study\/MVVM\/TodoList\/Models\/ItemModel.swift",
+              "detailStepType" : "swiftCompilation"
+            },
+            {
+              "parentIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_28",
+              "fetchedFromCache" : false,
+              "title" : "Compile ListView.swift (x86_64)",
+              "warningCount" : 0,
+              "duration" : 3.0149860382080078,
+              "startTimestamp" : 1650482047.2730989,
+              "signature" : "CompileSwift normal x86_64 \/Users\/daniilkravchuk\/Desktop\/Study\/MVVM\/TodoList\/Views\/ListView.swift (in target 'TodoList' from project 'TodoList')",
+              "errors" : [
+
+              ],
+              "compilationEndTimestamp" : 1650482050.288085,
+              "compilationDuration" : 3.0149860382080078,
+              "endDate" : "2022-04-20T19:14:10.288000Z",
+              "errorCount" : 0,
+              "domain" : "com.apple.dt.IDE.BuildLogSection",
+              "type" : "detail",
+              "identifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_33",
+              "buildStatus" : "succeeded",
+              "schema" : "TodoList",
+              "subSteps" : [
+
+              ],
+              "endTimestamp" : 1650482050.288085,
+              "architecture" : "x86_64",
+              "machineName" : "Даниил’s Mac mini",
+              "buildIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B",
+              "startDate" : "2022-04-20T19:14:07.273000Z",
+              "warnings" : [
+
+              ],
+              "notes" : [
+
+              ],
+              "documentURL" : "file:\/\/\/Users\/daniilkravchuk\/Desktop\/Study\/MVVM\/TodoList\/Views\/ListView.swift",
+              "detailStepType" : "swiftCompilation"
+            },
+            {
+              "parentIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_28",
+              "fetchedFromCache" : false,
+              "title" : "Compile AddView.swift (x86_64)",
+              "warningCount" : 0,
+              "duration" : 2.9915430545806885,
+              "startTimestamp" : 1650482047.275867,
+              "signature" : "CompileSwift normal x86_64 \/Users\/daniilkravchuk\/Desktop\/Study\/MVVM\/TodoList\/Views\/AddView.swift (in target 'TodoList' from project 'TodoList')",
+              "errors" : [
+
+              ],
+              "compilationEndTimestamp" : 1650482050.26741,
+              "compilationDuration" : 2.9915430545806885,
+              "endDate" : "2022-04-20T19:14:10.267000Z",
+              "errorCount" : 0,
+              "domain" : "com.apple.dt.IDE.BuildLogSection",
+              "type" : "detail",
+              "identifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_34",
+              "buildStatus" : "succeeded",
+              "schema" : "TodoList",
+              "subSteps" : [
+
+              ],
+              "endTimestamp" : 1650482050.26741,
+              "architecture" : "x86_64",
+              "machineName" : "Даниил’s Mac mini",
+              "buildIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B",
+              "startDate" : "2022-04-20T19:14:07.276000Z",
+              "warnings" : [
+
+              ],
+              "notes" : [
+
+              ],
+              "documentURL" : "file:\/\/\/Users\/daniilkravchuk\/Desktop\/Study\/MVVM\/TodoList\/Views\/AddView.swift",
+              "detailStepType" : "swiftCompilation"
+            },
+            {
+              "parentIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_28",
+              "fetchedFromCache" : false,
+              "title" : "Compile NoItemsView.swift (x86_64)",
+              "warningCount" : 0,
+              "duration" : 2.9879249334335327,
+              "startTimestamp" : 1650482047.2791519,
+              "signature" : "CompileSwift normal x86_64 \/Users\/daniilkravchuk\/Desktop\/Study\/MVVM\/TodoList\/Views\/NoItemsView.swift (in target 'TodoList' from project 'TodoList')",
+              "errors" : [
+
+              ],
+              "compilationEndTimestamp" : 1650482050.267077,
+              "compilationDuration" : 2.9879249334335327,
+              "endDate" : "2022-04-20T19:14:10.267000Z",
+              "errorCount" : 0,
+              "domain" : "com.apple.dt.IDE.BuildLogSection",
+              "type" : "detail",
+              "identifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_35",
+              "buildStatus" : "succeeded",
+              "schema" : "TodoList",
+              "subSteps" : [
+
+              ],
+              "endTimestamp" : 1650482050.267077,
+              "architecture" : "x86_64",
+              "machineName" : "Даниил’s Mac mini",
+              "buildIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B",
+              "startDate" : "2022-04-20T19:14:07.279000Z",
+              "warnings" : [
+
+              ],
+              "notes" : [
+
+              ],
+              "documentURL" : "file:\/\/\/Users\/daniilkravchuk\/Desktop\/Study\/MVVM\/TodoList\/Views\/NoItemsView.swift",
+              "detailStepType" : "swiftCompilation"
+            },
+            {
+              "parentIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_28",
+              "fetchedFromCache" : false,
+              "title" : "Merge swiftmodule (x86_64)",
+              "warningCount" : 0,
+              "duration" : 0.11509299278259277,
+              "startTimestamp" : 1650482050.297354,
+              "signature" : "MergeSwiftModule normal x86_64 (in target 'TodoList' from project 'TodoList')",
+              "errors" : [
+
+              ],
+              "compilationEndTimestamp" : 1650482050.412447,
+              "compilationDuration" : 0.11509299278259277,
+              "endDate" : "2022-04-20T19:14:10.412000Z",
+              "errorCount" : 0,
+              "domain" : "com.apple.dt.IDE.BuildLogSection",
+              "type" : "detail",
+              "identifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_36",
+              "buildStatus" : "succeeded",
+              "schema" : "TodoList",
+              "subSteps" : [
+
+              ],
+              "endTimestamp" : 1650482050.412447,
+              "architecture" : "",
+              "machineName" : "Даниил’s Mac mini",
+              "buildIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B",
+              "startDate" : "2022-04-20T19:14:10.297000Z",
+              "warnings" : [
+
+              ],
+              "notes" : [
+
+              ],
+              "documentURL" : "",
+              "detailStepType" : "mergeSwiftModule"
+            }
+          ],
+          "endTimestamp" : 1650482050.4342499,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B",
+          "startDate" : "2022-04-20T19:14:07.000000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "",
+          "detailStepType" : "swiftAggregatedCompilation"
+        },
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_12",
+          "fetchedFromCache" : false,
+          "title" : "Link TodoList (x86_64)",
+          "warningCount" : 0,
+          "duration" : 0.28749191761016846,
+          "startTimestamp" : 1650482050.4360991,
+          "signature" : "Ld \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoList-hgefwxjuormbfdctrfkmgclbkfsv\/Build\/Products\/Debug-iphonesimulator\/TodoList.app\/TodoList normal (in target 'TodoList' from project 'TodoList')",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650482050.7235909,
+          "compilationDuration" : 0.28749191761016846,
+          "endDate" : "2022-04-20T19:14:10.724000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_37",
+          "buildStatus" : "succeeded",
+          "schema" : "TodoList",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650482050.7235909,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B",
+          "startDate" : "2022-04-20T19:14:10.436000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "",
+          "detailStepType" : "linker"
+        },
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_12",
+          "fetchedFromCache" : false,
+          "title" : "Copy TodoList.swiftdoc (x86_64)",
+          "warningCount" : 0,
+          "duration" : 0.0021369457244873047,
+          "startTimestamp" : 1650482050.436619,
+          "signature" : "PBXCp \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoList-hgefwxjuormbfdctrfkmgclbkfsv\/Build\/Intermediates.noindex\/TodoList.build\/Debug-iphonesimulator\/TodoList.build\/Objects-normal\/x86_64\/TodoList.swiftdoc \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoList-hgefwxjuormbfdctrfkmgclbkfsv\/Build\/Products\/Debug-iphonesimulator\/TodoList.swiftmodule\/x86_64-apple-ios-simulator.swiftdoc (in target 'TodoList' from project 'TodoList')",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650482050.438756,
+          "compilationDuration" : 0.0021369457244873047,
+          "endDate" : "2022-04-20T19:14:10.439000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_38",
+          "buildStatus" : "succeeded",
+          "schema" : "TodoList",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650482050.438756,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B",
+          "startDate" : "2022-04-20T19:14:10.437000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "file:\/\/\/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoList-hgefwxjuormbfdctrfkmgclbkfsv\/Build\/Intermediates.noindex\/TodoList.build\/Debug-iphonesimulator\/TodoList.build\/Objects-normal\/x86_64\/TodoList.swiftdoc",
+          "detailStepType" : "other"
+        },
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_12",
+          "fetchedFromCache" : false,
+          "title" : "Copy TodoList-Swift.h (x86_64)",
+          "warningCount" : 0,
+          "duration" : 0.002041935920715332,
+          "startTimestamp" : 1650482050.4369612,
+          "signature" : "PBXCp \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoList-hgefwxjuormbfdctrfkmgclbkfsv\/Build\/Intermediates.noindex\/TodoList.build\/Debug-iphonesimulator\/TodoList.build\/Objects-normal\/x86_64\/TodoList-Swift.h \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoList-hgefwxjuormbfdctrfkmgclbkfsv\/Build\/Intermediates.noindex\/TodoList.build\/Debug-iphonesimulator\/TodoList.build\/DerivedSources\/TodoList-Swift.h (in target 'TodoList' from project 'TodoList')",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650482050.439003,
+          "compilationDuration" : 0.002041935920715332,
+          "endDate" : "2022-04-20T19:14:10.439000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_39",
+          "buildStatus" : "succeeded",
+          "schema" : "TodoList",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650482050.439003,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B",
+          "startDate" : "2022-04-20T19:14:10.437000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "file:\/\/\/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoList-hgefwxjuormbfdctrfkmgclbkfsv\/Build\/Intermediates.noindex\/TodoList.build\/Debug-iphonesimulator\/TodoList.build\/Objects-normal\/x86_64\/TodoList-Swift.h",
+          "detailStepType" : "other"
+        },
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_12",
+          "fetchedFromCache" : false,
+          "title" : "Copy TodoList.swiftmodule (x86_64)",
+          "warningCount" : 0,
+          "duration" : 0.001501917839050293,
+          "startTimestamp" : 1650482050.4372981,
+          "signature" : "PBXCp \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoList-hgefwxjuormbfdctrfkmgclbkfsv\/Build\/Intermediates.noindex\/TodoList.build\/Debug-iphonesimulator\/TodoList.build\/Objects-normal\/x86_64\/TodoList.swiftmodule \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoList-hgefwxjuormbfdctrfkmgclbkfsv\/Build\/Products\/Debug-iphonesimulator\/TodoList.swiftmodule\/x86_64.swiftmodule (in target 'TodoList' from project 'TodoList')",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650482050.4387999,
+          "compilationDuration" : 0.001501917839050293,
+          "endDate" : "2022-04-20T19:14:10.439000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_40",
+          "buildStatus" : "succeeded",
+          "schema" : "TodoList",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650482050.4387999,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B",
+          "startDate" : "2022-04-20T19:14:10.437000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "file:\/\/\/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoList-hgefwxjuormbfdctrfkmgclbkfsv\/Build\/Intermediates.noindex\/TodoList.build\/Debug-iphonesimulator\/TodoList.build\/Objects-normal\/x86_64\/TodoList.swiftmodule",
+          "detailStepType" : "other"
+        },
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_12",
+          "fetchedFromCache" : false,
+          "title" : "Copy TodoList.swiftmodule (x86_64)",
+          "warningCount" : 0,
+          "duration" : 0.0012390613555908203,
+          "startTimestamp" : 1650482050.4375439,
+          "signature" : "PBXCp \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoList-hgefwxjuormbfdctrfkmgclbkfsv\/Build\/Intermediates.noindex\/TodoList.build\/Debug-iphonesimulator\/TodoList.build\/Objects-normal\/x86_64\/TodoList.swiftmodule \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoList-hgefwxjuormbfdctrfkmgclbkfsv\/Build\/Products\/Debug-iphonesimulator\/TodoList.swiftmodule\/x86_64-apple-ios-simulator.swiftmodule (in target 'TodoList' from project 'TodoList')",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650482050.4387832,
+          "compilationDuration" : 0.0012390613555908203,
+          "endDate" : "2022-04-20T19:14:10.439000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_41",
+          "buildStatus" : "succeeded",
+          "schema" : "TodoList",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650482050.4387832,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B",
+          "startDate" : "2022-04-20T19:14:10.438000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "file:\/\/\/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoList-hgefwxjuormbfdctrfkmgclbkfsv\/Build\/Intermediates.noindex\/TodoList.build\/Debug-iphonesimulator\/TodoList.build\/Objects-normal\/x86_64\/TodoList.swiftmodule",
+          "detailStepType" : "other"
+        },
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_12",
+          "fetchedFromCache" : false,
+          "title" : "Copy TodoList.swiftsourceinfo (x86_64)",
+          "warningCount" : 0,
+          "duration" : 0.0010449886322021484,
+          "startTimestamp" : 1650482050.437932,
+          "signature" : "PBXCp \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoList-hgefwxjuormbfdctrfkmgclbkfsv\/Build\/Intermediates.noindex\/TodoList.build\/Debug-iphonesimulator\/TodoList.build\/Objects-normal\/x86_64\/TodoList.swiftsourceinfo \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoList-hgefwxjuormbfdctrfkmgclbkfsv\/Build\/Products\/Debug-iphonesimulator\/TodoList.swiftmodule\/Project\/x86_64-apple-ios-simulator.swiftsourceinfo (in target 'TodoList' from project 'TodoList')",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650482050.438977,
+          "compilationDuration" : 0.0010449886322021484,
+          "endDate" : "2022-04-20T19:14:10.439000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_42",
+          "buildStatus" : "succeeded",
+          "schema" : "TodoList",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650482050.438977,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B",
+          "startDate" : "2022-04-20T19:14:10.438000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "file:\/\/\/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoList-hgefwxjuormbfdctrfkmgclbkfsv\/Build\/Intermediates.noindex\/TodoList.build\/Debug-iphonesimulator\/TodoList.build\/Objects-normal\/x86_64\/TodoList.swiftsourceinfo",
+          "detailStepType" : "other"
+        },
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_12",
+          "fetchedFromCache" : false,
+          "title" : "Copy TodoList.swiftsourceinfo (x86_64)",
+          "warningCount" : 0,
+          "duration" : 0.00083899497985839844,
+          "startTimestamp" : 1650482050.4381819,
+          "signature" : "PBXCp \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoList-hgefwxjuormbfdctrfkmgclbkfsv\/Build\/Intermediates.noindex\/TodoList.build\/Debug-iphonesimulator\/TodoList.build\/Objects-normal\/x86_64\/TodoList.swiftsourceinfo \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoList-hgefwxjuormbfdctrfkmgclbkfsv\/Build\/Products\/Debug-iphonesimulator\/TodoList.swiftmodule\/Project\/x86_64.swiftsourceinfo (in target 'TodoList' from project 'TodoList')",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650482050.4390211,
+          "compilationDuration" : 0.00083899497985839844,
+          "endDate" : "2022-04-20T19:14:10.439000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_43",
+          "buildStatus" : "succeeded",
+          "schema" : "TodoList",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650482050.4390211,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B",
+          "startDate" : "2022-04-20T19:14:10.438000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "file:\/\/\/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoList-hgefwxjuormbfdctrfkmgclbkfsv\/Build\/Intermediates.noindex\/TodoList.build\/Debug-iphonesimulator\/TodoList.build\/Objects-normal\/x86_64\/TodoList.swiftsourceinfo",
+          "detailStepType" : "other"
+        },
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_12",
+          "fetchedFromCache" : false,
+          "title" : "Copy TodoList.swiftdoc (x86_64)",
+          "warningCount" : 0,
+          "duration" : 0.00063097476959228516,
+          "startTimestamp" : 1650482050.438499,
+          "signature" : "PBXCp \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoList-hgefwxjuormbfdctrfkmgclbkfsv\/Build\/Intermediates.noindex\/TodoList.build\/Debug-iphonesimulator\/TodoList.build\/Objects-normal\/x86_64\/TodoList.swiftdoc \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoList-hgefwxjuormbfdctrfkmgclbkfsv\/Build\/Products\/Debug-iphonesimulator\/TodoList.swiftmodule\/x86_64.swiftdoc (in target 'TodoList' from project 'TodoList')",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650482050.4391298,
+          "compilationDuration" : 0.00063097476959228516,
+          "endDate" : "2022-04-20T19:14:10.439000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_44",
+          "buildStatus" : "succeeded",
+          "schema" : "TodoList",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650482050.4391298,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B",
+          "startDate" : "2022-04-20T19:14:10.438000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "file:\/\/\/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoList-hgefwxjuormbfdctrfkmgclbkfsv\/Build\/Intermediates.noindex\/TodoList.build\/Debug-iphonesimulator\/TodoList.build\/Objects-normal\/x86_64\/TodoList.swiftdoc",
+          "detailStepType" : "other"
+        },
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_12",
+          "fetchedFromCache" : false,
+          "title" : "Compile Storyboard file LaunchScreen.storyboard",
+          "warningCount" : 0,
+          "duration" : 0.73967397212982178,
+          "startTimestamp" : 1650482050.7248769,
+          "signature" : "CompileStoryboard \/Users\/daniilkravchuk\/Desktop\/Study\/MVVM\/TodoList\/Views\/LaunchScreen.storyboard (in target 'TodoList' from project 'TodoList')",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650482051.464551,
+          "compilationDuration" : 0.73967397212982178,
+          "endDate" : "2022-04-20T19:14:11.465000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_45",
+          "buildStatus" : "succeeded",
+          "schema" : "TodoList",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650482051.464551,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B",
+          "startDate" : "2022-04-20T19:14:10.725000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "",
+          "detailStepType" : "compileStoryboard"
+        },
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_12",
+          "fetchedFromCache" : false,
+          "title" : "Compile asset catalogs",
+          "warningCount" : 0,
+          "duration" : 0.64282798767089844,
+          "startTimestamp" : 1650482050.7253599,
+          "signature" : "CompileAssetCatalog \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoList-hgefwxjuormbfdctrfkmgclbkfsv\/Build\/Products\/Debug-iphonesimulator\/TodoList.app \/Users\/daniilkravchuk\/Desktop\/Study\/MVVM\/TodoList\/Preview\\ Content\/Preview\\ Assets.xcassets \/Users\/daniilkravchuk\/Desktop\/Study\/MVVM\/TodoList\/Assets.xcassets (in target 'TodoList' from project 'TodoList')",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650482051.3681879,
+          "compilationDuration" : 0.64282798767089844,
+          "endDate" : "2022-04-20T19:14:11.368000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_46",
+          "buildStatus" : "succeeded",
+          "schema" : "TodoList",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650482051.3681879,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B",
+          "startDate" : "2022-04-20T19:14:10.725000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+            {
+              "characterRangeStart" : 0,
+              "startingColumnNumber" : 1,
+              "endingColumnNumber" : 1,
+              "characterRangeEnd" : 18446744073709551615,
+              "detail" : "2022-04-20 22:14:10.781 ibtoold[19425:283549] DEBUG: Added to environment: {\r    TMPDIR = \"\/var\/folders\/y9\/92fssh6s2jq713gk7nzhrs2m0000gn\/T\/3AA670D9-8AA4-409B-A9D8-BBC89DE4C454\";\r}\r2022-04-20 22:14:10.781 ibtoold[19425:283549] Launching AssetCatalogSimulatorAgent using native architecture.\r\/* com.apple.actool.document.notices *\/\r\/Users\/daniilkravchuk\/Desktop\/Study\/MVVM\/TodoList\/Assets.xcassets:.\/AppIcon.appiconset\/[][ipad][76x76][][][1x][][][]: notice: 76x76@1x app icons only apply to iPad apps targeting releases of iOS prior to 10.0.\r\/* com.apple.actool.compilation-results *\/\r\/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoList-hgefwxjuormbfdctrfkmgclbkfsv\/Build\/Intermediates.noindex\/TodoList.build\/Debug-iphonesimulator\/TodoList.build\/assetcatalog_generated_info.plist\r\/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoList-hgefwxjuormbfdctrfkmgclbkfsv\/Build\/Products\/Debug-iphonesimulator\/TodoList.app\/AppIcon60x60@2x.png\r\/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoList-hgefwxjuormbfdctrfkmgclbkfsv\/Build\/Products\/Debug-iphonesimulator\/TodoList.app\/AppIcon76x76@2x~ipad.png\r\/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoList-hgefwxjuormbfdctrfkmgclbkfsv\/Build\/Products\/Debug-iphonesimulator\/TodoList.app\/Assets.car",
+              "title" : "76x76@1x app icons only apply to iPad apps targeting releases of iOS prior to 10.0.",
+              "endingLineNumber" : 1,
+              "type" : "note",
+              "documentURL" : "file:\/\/\/Users\/daniilkravchuk\/Desktop\/Study\/MVVM\/TodoList\/Assets.xcassets\/",
+              "startingLineNumber" : 1,
+              "severity" : 0
+            }
+          ],
+          "documentURL" : "",
+          "detailStepType" : "compileAssetsCatalog"
+        },
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_12",
+          "fetchedFromCache" : false,
+          "title" : "Process Info.plist",
+          "warningCount" : 0,
+          "duration" : 0.0063840150833129883,
+          "startTimestamp" : 1650482051.464926,
+          "signature" : "ProcessInfoPlistFile \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoList-hgefwxjuormbfdctrfkmgclbkfsv\/Build\/Products\/Debug-iphonesimulator\/TodoList.app\/Info.plist \/Users\/daniilkravchuk\/Desktop\/Study\/MVVM\/TodoList\/Info.plist (in target 'TodoList' from project 'TodoList')",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650482051.4713101,
+          "compilationDuration" : 0.0063840150833129883,
+          "endDate" : "2022-04-20T19:14:11.471000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_47",
+          "buildStatus" : "succeeded",
+          "schema" : "TodoList",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650482051.4713101,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B",
+          "startDate" : "2022-04-20T19:14:11.465000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "",
+          "detailStepType" : "other"
+        },
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_12",
+          "fetchedFromCache" : false,
+          "title" : "Link Storyboards",
+          "warningCount" : 0,
+          "duration" : 0.019098997116088867,
+          "startTimestamp" : 1650482051.4652371,
+          "signature" : "LinkStoryboards (in target 'TodoList' from project 'TodoList')",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650482051.4843359,
+          "compilationDuration" : 0.019098997116088867,
+          "endDate" : "2022-04-20T19:14:11.484000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_48",
+          "buildStatus" : "succeeded",
+          "schema" : "TodoList",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650482051.4843359,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B",
+          "startDate" : "2022-04-20T19:14:11.465000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "",
+          "detailStepType" : "linkStoryboards"
+        },
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_12",
+          "fetchedFromCache" : false,
+          "title" : "Copy Swift standard libraries into TodoList.app",
+          "warningCount" : 0,
+          "duration" : 0.08552098274230957,
+          "startTimestamp" : 1650482051.484941,
+          "signature" : "CopySwiftLibs \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoList-hgefwxjuormbfdctrfkmgclbkfsv\/Build\/Products\/Debug-iphonesimulator\/TodoList.app (in target 'TodoList' from project 'TodoList')",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650482051.570462,
+          "compilationDuration" : 0.08552098274230957,
+          "endDate" : "2022-04-20T19:14:11.570000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_49",
+          "buildStatus" : "succeeded",
+          "schema" : "TodoList",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650482051.570462,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B",
+          "startDate" : "2022-04-20T19:14:11.485000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "",
+          "detailStepType" : "copySwiftLibs"
+        },
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_12",
+          "fetchedFromCache" : false,
+          "title" : "Sign TodoList.app",
+          "warningCount" : 0,
+          "duration" : 0.030074954032897949,
+          "startTimestamp" : 1650482051.571275,
+          "signature" : "CodeSign \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoList-hgefwxjuormbfdctrfkmgclbkfsv\/Build\/Products\/Debug-iphonesimulator\/TodoList.app (in target 'TodoList' from project 'TodoList')",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650482051.6013498,
+          "compilationDuration" : 0.030074954032897949,
+          "endDate" : "2022-04-20T19:14:11.601000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_50",
+          "buildStatus" : "succeeded",
+          "schema" : "TodoList",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650482051.6013498,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B",
+          "startDate" : "2022-04-20T19:14:11.571000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "",
+          "detailStepType" : "other"
+        },
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_12",
+          "fetchedFromCache" : false,
+          "title" : "Register execution policy exception for TodoList.app",
+          "warningCount" : 0,
+          "duration" : 0.0072768926620483398,
+          "startTimestamp" : 1650482051.6016541,
+          "signature" : "RegisterExecutionPolicyException \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoList-hgefwxjuormbfdctrfkmgclbkfsv\/Build\/Products\/Debug-iphonesimulator\/TodoList.app (in target 'TodoList' from project 'TodoList')",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650482051.6089311,
+          "compilationDuration" : 0.0072768926620483398,
+          "endDate" : "2022-04-20T19:14:11.609000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_51",
+          "buildStatus" : "succeeded",
+          "schema" : "TodoList",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650482051.6089311,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B",
+          "startDate" : "2022-04-20T19:14:11.602000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "",
+          "detailStepType" : "other"
+        },
+        {
+          "parentIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_12",
+          "fetchedFromCache" : false,
+          "title" : "Touch TodoList.app",
+          "warningCount" : 0,
+          "duration" : 0.011412978172302246,
+          "startTimestamp" : 1650482051.6092792,
+          "signature" : "Touch \/Users\/daniilkravchuk\/Library\/Developer\/Xcode\/DerivedData\/TodoList-hgefwxjuormbfdctrfkmgclbkfsv\/Build\/Products\/Debug-iphonesimulator\/TodoList.app (in target 'TodoList' from project 'TodoList')",
+          "errors" : [
+
+          ],
+          "compilationEndTimestamp" : 1650482051.620692,
+          "compilationDuration" : 0.011412978172302246,
+          "endDate" : "2022-04-20T19:14:11.621000Z",
+          "errorCount" : 0,
+          "domain" : "com.apple.dt.IDE.BuildLogSection",
+          "type" : "detail",
+          "identifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B_52",
+          "buildStatus" : "succeeded",
+          "schema" : "TodoList",
+          "subSteps" : [
+
+          ],
+          "endTimestamp" : 1650482051.620692,
+          "architecture" : "",
+          "machineName" : "Даниил’s Mac mini",
+          "buildIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B",
+          "startDate" : "2022-04-20T19:14:11.609000Z",
+          "warnings" : [
+
+          ],
+          "notes" : [
+
+          ],
+          "documentURL" : "",
+          "detailStepType" : "other"
+        }
+      ],
+      "endTimestamp" : 1650482051.6207199,
+      "architecture" : "",
+      "machineName" : "Даниил’s Mac mini",
+      "buildIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B",
+      "startDate" : "2022-04-20T19:14:06.994000Z",
+      "warnings" : [
+        {
+          "characterRangeStart" : 0,
+          "startingColumnNumber" : 0,
+          "endingColumnNumber" : 0,
+          "characterRangeEnd" : 0,
+          "detail" : "warning: Capabilities for Signing & Capabilities may not function correctly because its entitlements use a placeholder team ID. To resolve this, select a development team in the TodoList editor. (in target 'TodoList' from project 'TodoList')",
+          "title" : "Capabilities for Signing & Capabilities may not function correctly because its entitlements use a placeholder team ID. To resolve this, select a development team in the TodoList editor.",
+          "endingLineNumber" : 0,
+          "type" : "projectWarning",
+          "documentURL" : "",
+          "startingLineNumber" : 0,
+          "severity" : 1
+        }
+      ],
+      "notes" : [
+
+      ],
+      "documentURL" : "",
+      "detailStepType" : "none"
+    }
+  ],
+  "endTimestamp" : 1650482051.628747,
+  "architecture" : "",
+  "machineName" : "Даниил’s Mac mini",
+  "buildIdentifier" : "Даниил’s Mac mini_E876325F-DB81-4669-9CDA-CB5A773DBE5B",
+  "startDate" : "2022-04-20T19:14:06.878000Z",
+  "warnings" : [
+
+  ],
+  "notes" : [
+
+  ],
+  "documentURL" : "",
+  "detailStepType" : "none"
+}
